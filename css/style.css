@@ -1,1 +1,214 @@
+:root {
+  --black: #171816;
+  --industrial: #41464b;
+  --murdock: #6f7355;
+  --face: #e8dfc8;
+  --beige: #c6b691;
+  --paper: #f4f0e5;
+}
 
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: var(--paper);
+  color: var(--black);
+  line-height: 1.6;
+}
+
+.site-header {
+  border-bottom: 1px solid rgba(0,0,0,.15);
+  background: rgba(244,240,229,.96);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.nav-wrap {
+  width: min(1100px, calc(100% - 32px));
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 78px;
+  gap: 30px;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  text-decoration: none;
+  color: var(--black);
+}
+
+.brand img {
+  width: 52px;
+  height: 52px;
+  object-fit: contain;
+}
+
+.brand-text {
+  font-weight: 800;
+  letter-spacing: .08em;
+}
+
+nav {
+  display: flex;
+  gap: 18px;
+  flex-wrap: wrap;
+}
+
+nav a {
+  text-decoration: none;
+  color: var(--black);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: .04em;
+}
+
+nav a:hover {
+  color: var(--murdock);
+}
+
+.hero {
+  width: min(1100px, calc(100% - 32px));
+  margin: 0 auto;
+  min-height: 72vh;
+  display: grid;
+  grid-template-columns: 1.2fr .8fr;
+  gap: 70px;
+  align-items: center;
+  padding: 80px 0;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: .18em;
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--murdock);
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(52px, 8vw, 96px);
+  line-height: .95;
+  margin: 18px 0 24px;
+  letter-spacing: -.04em;
+}
+
+.tagline {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 27px;
+  font-style: italic;
+  margin-bottom: 26px;
+}
+
+.hero p {
+  max-width: 700px;
+  font-size: 18px;
+  color: #55564f;
+}
+
+.hero-card {
+  background: var(--industrial);
+  color: var(--face);
+  padding: 34px;
+  border-radius: 18px;
+}
+
+.hero-card h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 30px;
+  line-height: 1.2;
+  margin-top: 0;
+}
+
+.pillars {
+  width: min(1100px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 70px 0 90px;
+}
+
+.pillars h2 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 42px;
+}
+
+.pillar-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  margin-top: 30px;
+}
+
+.pillar {
+  background: var(--face);
+  padding: 28px;
+  border-radius: 16px;
+  min-height: 240px;
+}
+
+.pillar span {
+  font-size: 12px;
+  font-weight: 800;
+  color: var(--murdock);
+  letter-spacing: .12em;
+}
+
+.pillar h3 {
+  font-size: 25px;
+  margin: 55px 0 10px;
+}
+
+.manifesto {
+  background: var(--murdock);
+  color: var(--face);
+  padding: 70px 20px;
+}
+
+.manifesto-inner {
+  width: min(1000px, calc(100% - 32px));
+  margin: 0 auto;
+}
+
+.manifesto blockquote {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(30px, 5vw, 54px);
+  line-height: 1.15;
+  margin: 0;
+}
+
+footer {
+  width: min(1100px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 32px 0;
+  font-size: 13px;
+  color: #77786f;
+}
+
+@media (max-width: 800px) {
+  .nav-wrap {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 14px 0;
+  }
+
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 30px;
+    min-height: auto;
+  }
+
+  .pillar-grid {
+    grid-template-columns: 1fr;
+  }
+
+  nav {
+    gap: 12px;
+  }
+}
