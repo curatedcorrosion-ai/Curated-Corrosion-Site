@@ -780,3 +780,163 @@ footer {
   }
 
 }
+
+
+/* ==============================================
+   CURATED CORROSION — PHYSICAL PALETTE OVERRIDES
+   Paste at END of style.css
+============================================== */
+
+:root {
+  --face: #c7c2a8;
+  --murdock: #77765f;
+  --industrial: #56564c;
+  --black: #171814;
+  --ivory: #e8dfc8;
+  --paper: #ded8c3;
+
+  --face-light: #d7d2bb;
+  --murdock-dark: #5f604e;
+  --industrial-dark: #40413a;
+}
+
+
+/* Main Gallery environment */
+
+body {
+  background: var(--face);
+  color: var(--black);
+}
+
+.archive-section {
+  background: var(--face);
+}
+
+
+/* Gallery entrance — Murdock becomes prominent */
+
+.gallery-hero {
+  background: var(--murdock);
+  color: var(--ivory);
+  border-bottom: 8px solid var(--industrial);
+}
+
+.gallery-title {
+  color: var(--ivory);
+}
+
+.gallery-hero .eyebrow {
+  color: var(--black);
+}
+
+.gallery-intro {
+  color: var(--ivory);
+}
+
+.gallery-philosophy {
+  color: rgba(232, 223, 200, .82);
+}
+
+
+/* Search feels integrated rather than white UI */
+
+.archive-search-wrap input {
+  background: var(--face-light);
+  color: var(--black);
+  border: 1px solid var(--industrial);
+}
+
+.archive-search-wrap input::placeholder {
+  color: rgba(23, 24, 20, .55);
+}
+
+
+/* Filters */
+
+.gallery-filter {
+  border-color: var(--industrial);
+  color: var(--industrial-dark);
+}
+
+.gallery-filter:hover,
+.gallery-filter.active {
+  background: var(--murdock);
+  border-color: var(--murdock);
+  color: var(--ivory);
+}
+
+
+/* Specimen cards */
+
+.gallery-card {
+  background: var(--face-light);
+  border: 1px solid rgba(64, 65, 58, .35);
+}
+
+.gallery-card-image {
+  background: var(--industrial);
+}
+
+.gallery-card-id {
+  color: var(--murdock-dark);
+}
+
+.gallery-card-meta {
+  border-color: rgba(64, 65, 58, .25);
+}
+
+.record-button {
+  color: var(--industrial-dark);
+}
+
+.record-button:hover {
+  color: var(--murdock-dark);
+}
+
+
+/* Collection principle section */
+
+.gallery-statement {
+  background: var(--murdock);
+  color: var(--ivory);
+  border-top: 8px solid var(--industrial);
+}
+
+.archive-number {
+  color: var(--black);
+}
+
+.gallery-statement blockquote {
+  color: var(--ivory);
+}
+
+
+/* Specimen record */
+
+.specimen-modal-card {
+  background: var(--face-light);
+  border-top: 8px solid var(--murdock);
+}
+
+.modal-record-label,
+.modal-record-grid span,
+.modal-long-section span {
+  color: var(--murdock-dark);
+}
+
+.modal-record-grid {
+  background: var(--industrial);
+  border-color: var(--industrial);
+}
+
+.modal-record-grid > div {
+  background: var(--face-light);
+}
+
+
+/* Archive stamp */
+
+.archive-stamp {
+  color: var(--murdock-dark);
+  border-color: var(--murdock-dark);
+}
