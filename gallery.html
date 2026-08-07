@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0">
+
+  <title>The Gallery | Curated Corrosion</title>
+
+  <link
+    rel="stylesheet"
+    href="css/style.css">
+</head>
+
+
+<body>
+
+<header class="site-header">
+
+  <div class="nav-wrap">
+
+    <a
+      href="index.html"
+      class="brand">
+
+      <img
+        src="images/Curated_Corrosion_Logo_Optimized.png"
+        alt="Curated Corrosion logo">
+
+      <div class="brand-text">
+        CURATED CORROSION
+      </div>
+
+    </a>
+
+
+    <nav>
+      <a href="index.html">HOME</a>
+      <a href="#">THE WORKSHOP</a>
+      <a
+        href="gallery.html"
+        class="active-nav">
+        THE GALLERY
+      </a>
+      <a href="#">CURATOR'S HANDBOOK</a>
+      <a href="#">ABOUT</a>
+      <a href="#">CONTACT</a>
+    </nav>
+
+  </div>
+
+</header>
+
+
+
+<main>
+
+  <!-- ==============================
+       GALLERY HEADER
+  =============================== -->
+
+  <section class="gallery-hero">
+
+    <div class="gallery-hero-inner">
+
+      <div class="eyebrow">
+        The Component Specimen Archive
+      </div>
+
+      <h1 class="gallery-title">
+        The Gallery
+      </h1>
+
+      <p class="gallery-intro">
+        A growing public archive of electronic component specimens
+        preserved, researched, characterized, and studied by
+        Curated Corrosion.
+      </p>
+
+      <p class="gallery-philosophy">
+        Measurements are documented as data.
+        Historical claims are supported by research.
+        Sonic descriptions remain careful curator observations.
+      </p>
+
+    </div>
+
+  </section>
+
+
+
+  <!-- ==============================
+       SEARCH + FILTER
+  =============================== -->
+
+  <section class="archive-section">
+
+    <div class="archive-controls">
+
+      <div class="archive-search-wrap">
+
+        <label for="gallerySearch">
+          SEARCH THE COLLECTION
+        </label>
+
+        <input
+          type="search"
+          id="gallerySearch"
+          placeholder="Specimen ID, manufacturer, family, marking...">
+
+      </div>
+
+
+      <div class="filter-group">
+
+        <button
+          class="gallery-filter active"
+          data-filter="all">
+          ALL
+        </button>
+
+        <button
+          class="gallery-filter"
+          data-filter="transistor">
+          TRANSISTORS
+        </button>
+
+        <button
+          class="gallery-filter"
+          data-filter="capacitor">
+          CAPACITORS
+        </button>
+
+        <button
+          class="gallery-filter"
+          data-filter="diode">
+          DIODES
+        </button>
+
+        <button
+          class="gallery-filter"
+          data-filter="ic">
+          ICs
+        </button>
+
+        <button
+          class="gallery-filter"
+          data-filter="other">
+          OTHER
+        </button>
+
+      </div>
+
+    </div>
+
+
+
+    <!-- Javascript places cards here -->
+
+    <div
+      id="galleryGrid"
+      class="gallery-grid">
+    </div>
+
+
+    <div
+      id="galleryEmpty"
+      class="gallery-empty"
+      hidden>
+
+      <div class="archive-stamp">
+        CC ARCHIVE
+      </div>
+
+      <h2>
+        No accessioned specimens match this view.
+      </h2>
+
+      <p>
+        The Gallery grows as individual specimens complete
+        Curated Corrosion's accession and characterization process.
+      </p>
+
+    </div>
+
+  </section>
+
+
+
+  <!-- ==============================
+       COLLECTION STATEMENT
+  =============================== -->
+
+  <section class="gallery-statement">
+
+    <div class="gallery-statement-inner">
+
+      <span class="archive-number">
+        COLLECTION PRINCIPLE 01
+      </span>
+
+      <blockquote>
+        Every specimen deserves the respect of being understood.
+      </blockquote>
+
+      <p>
+        Components are not admitted to the Gallery simply because
+        they are old, rare, or valuable. Each record represents an
+        individual object in the Curated Corrosion collection whose
+        identity and history are being deliberately preserved.
+      </p>
+
+    </div>
+
+  </section>
+
+</main>
+
+
+
+<footer>
+  Curated Corrosion —
+  Every specimen has a story to tell.
+</footer>
+
+
+
+<!-- ==============================
+     SPECIMEN DETAIL WINDOW
+=============================== -->
+
+<div
+  id="specimenModal"
+  class="specimen-modal"
+  aria-hidden="true">
+
+  <div class="specimen-modal-overlay"></div>
+
+
+  <article class="specimen-modal-card">
+
+    <button
+      id="modalClose"
+      class="modal-close"
+      aria-label="Close specimen record">
+      ×
+    </button>
+
+
+    <div class="modal-record-label">
+      CURATED CORROSION — SPECIMEN RECORD
+    </div>
+
+
+    <div
+      id="modalSpecimenId"
+      class="modal-specimen-id">
+    </div>
+
+
+    <h2 id="modalTitle"></h2>
+
+
+    <div class="modal-record-grid">
+
+      <div>
+        <span>TYPE / FAMILY</span>
+        <p id="modalType"></p>
+      </div>
+
+
+      <div>
+        <span>DATE / ERA</span>
+        <p id="modalEra"></p>
+      </div>
+
+
+      <div>
+        <span>MANUFACTURER</span>
+        <p id="modalManufacturer"></p>
+      </div>
+
+
+      <div>
+        <span>MARKINGS</span>
+        <p id="modalMarkings"></p>
+      </div>
+
+
+      <div>
+        <span>PROVENANCE</span>
+        <p id="modalProvenance"></p>
+      </div>
+
+
+      <div>
+        <span>CONDITION</span>
+        <p id="modalCondition"></p>
+      </div>
+
+    </div>
+
+
+    <div class="modal-long-section">
+
+      <span>
+        CHARACTERIZATION
+      </span>
+
+      <p id="modalCharacterization"></p>
+
+    </div>
+
+
+    <div class="modal-long-section">
+
+      <span>
+        CURATOR'S OBSERVATION
+      </span>
+
+      <p id="modalObservation"></p>
+
+    </div>
+
+
+    <div class="modal-long-section">
+
+      <span>
+        HISTORICAL NOTES
+      </span>
+
+      <p id="modalHistory"></p>
+
+    </div>
+
+  </article>
+
+</div>
+
+
+
+<script src="js/site.js"></script>
+
+</body>
+</html>
