@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "specimenId": "COMING-SOON",
+    "category": "transistor",
+    "name": "First Accession Pending",
+    "typeFamily": "Transistor",
+    "era": "Pending research",
+    "manufacturer": "To be determined",
+    "markings": "Awaiting OCS-001",
+    "provenance": "First formal specimen accession will establish the Gallery record standard.",
+    "condition": "Pending characterization",
+    "characterization": "Electrical characterization has not yet been completed.",
+    "observation": "No curator observation has been entered.",
+    "history": "This temporary record will be removed when OCS-001 is formally accessioned.",
+    "image": ""
+  }
+]
