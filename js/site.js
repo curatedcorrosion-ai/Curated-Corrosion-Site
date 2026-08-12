@@ -316,6 +316,7 @@ function setModalText(
 
   }
 
+}
 function loadSpecimenPhotos(specimen) {
   const mainImage = document.getElementById("modalMainImage");
   const photoStrip = document.getElementById("modalPhotoStrip");
