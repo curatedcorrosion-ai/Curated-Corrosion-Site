@@ -940,3 +940,18 @@ body {
   color: var(--murdock-dark);
   border-color: var(--murdock-dark);
 }
+
+
+/* =====================================================
+   SPECIMEN PHOTO RECORD
+===================================================== */
+.modal-photo-gallery { position: relative; margin: 22px 0 10px; min-height: 320px; background: #f1eee5; border: 1px solid rgba(0,0,0,.18); display: flex; align-items: center; justify-content: center; overflow: hidden; }
+.modal-main-image { display:block; width:100%; height:min(58vh,620px); object-fit:contain; }
+.modal-photo-nav { position:absolute; top:50%; transform:translateY(-50%); z-index:2; width:44px; height:56px; border:0; background:rgba(20,20,20,.78); color:#fff; font-size:34px; line-height:1; cursor:pointer; }
+.modal-photo-prev { left:10px; }
+.modal-photo-next { right:10px; }
+.modal-photo-strip { display:flex; gap:8px; overflow-x:auto; padding:2px 0 16px; }
+.modal-photo-thumb { flex:0 0 auto; width:74px; height:74px; padding:0; border:2px solid transparent; background:transparent; cursor:pointer; }
+.modal-photo-thumb.active { border-color:#111; }
+.modal-photo-thumb img { display:block; width:100%; height:100%; object-fit:cover; }
+@media (max-width:640px){ .modal-photo-gallery{min-height:220px}.modal-main-image{height:44vh}.modal-photo-nav{width:38px;height:48px} }
