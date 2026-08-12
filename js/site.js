@@ -316,6 +316,82 @@ function setModalText(
 
   }
 
+function loadSpecimenPhotos(specimen) {
+  const mainImage = document.getElementById("modalMainImage");
+  const photoStrip = document.getElementById("modalPhotoStrip");
+  const prevButton = document.getElementById("modalPhotoPrev");
+  const nextButton = document.getElementById("modalPhotoNext");
+
+  if (!mainImage || !photoStrip) return;
+
+  const photos =
+    Array.isArray(specimen.images) && specimen.images.length
+      ? specimen.images
+      : specimen.image
+        ? [specimen.image]
+        : [];
+
+  let currentIndex = 0;
+
+  function showPhoto(index) {
+    if (!photos.length) return;
+
+    currentIndex = (index + photos.length) % photos.length;
+
+    mainImage.src = photos[currentIndex];
+    mainImage.alt =
+      `${specimen.name} — photograph ${currentIndex + 1} of ${photos.length}`;
+
+    photoStrip
+      .querySelectorAll("button")
+      .forEach((button, buttonIndex) => {
+        button.classList.toggle(
+          "active",
+          buttonIndex === currentIndex
+        );
+      });
+  }
+
+  photoStrip.innerHTML = "";
+
+  photos.forEach((src, index) => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "modal-photo-thumbnail";
+
+    const thumbnail = document.createElement("img");
+    thumbnail.src = src;
+    thumbnail.alt =
+      `${specimen.name} thumbnail ${index + 1}`;
+
+    button.appendChild(thumbnail);
+    button.onclick = () => showPhoto(index);
+
+    photoStrip.appendChild(button);
+  });
+
+  if (prevButton) {
+    prevButton.onclick = () => showPhoto(currentIndex - 1);
+  }
+
+  if (nextButton) {
+    nextButton.onclick = () => showPhoto(currentIndex + 1);
+  }
+
+  if (photos.length) {
+    showPhoto(0);
+  } else {
+    mainImage.removeAttribute("src");
+    mainImage.alt = "";
+  }
+
+  if (prevButton) {
+    prevButton.hidden = photos.length <= 1;
+  }
+
+  if (nextButton) {
+    nextButton.hidden = photos.length <= 1;
+  }
 }
 
 
@@ -390,6 +466,7 @@ function openSpecimen(specimen) {
     specimen.history
   );
 
+loadSpecimenPhotos(specimen);
 
   specimenModal.classList.add(
     "open"
