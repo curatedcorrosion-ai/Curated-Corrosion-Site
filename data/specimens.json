@@ -12,8 +12,8 @@
     "characterization": "Atlas DCA55: PNP germanium; hFE 54 @ Ic 2.50 mA; VBE 0.243 V; IB 0.0362 mA; leakage current 0.152 mA.",
     "observation": "An early Curated Corrosion accession retained as an individually documented specimen rather than treated as anonymous parts stock.",
     "history": "Identity, manufacturer attribution, and dating remain subject to continued archival research. Electrical values are specimen-specific measurements recorded at accession.",
-    "image": "images/specimens/OCS001/OCS001-1.jpg",
-    "images": ["images/specimens/OCS001/OCS001-1.jpg","images/specimens/OCS001/OCS001-2.jpg","images/specimens/OCS001/OCS001-3.jpg","images/specimens/OCS001/OCS001-4.jpg","images/specimens/OCS001/OCS001-5.jpg","images/specimens/OCS001/OCS001-6.jpg","images/specimens/OCS001/OCS001-7.jpg"]
+    "image": "images/OCS001/OCS001-1.jpg",
+    "images": ["images/OCS001/OCS001-1.jpg","images/OCS001/OCS001-2.jpg","images/OCS001/OCS001-3.jpg","images/OCS001/OCS001-4.jpg","images/OCS001/OCS001-5.jpg","images/OCS001/OCS001-6.jpg","images/OCS001/OCS001-7.jpg"]
   },
   {
     "specimenId": "OCS-002",
@@ -28,8 +28,8 @@
     "characterization": "Atlas DCA55: PNP germanium; hFE 43 @ Ic 2.50 mA; VBE 0.247 V; IB 0.0537 mA; leakage current 0.144 mA.",
     "observation": "Part of the same A101 study group as neighboring accessions, allowing individual-device variation to be preserved rather than averaged away.",
     "history": "Identity, manufacturer attribution, and dating remain subject to continued archival research. Electrical values are specimen-specific measurements recorded at accession.",
-    "image": "images/specimens/OCS002/OCS002-1.jpg",
-    "images": ["images/specimens/OCS002/OCS002-1.jpg","images/specimens/OCS002/OCS002-2.jpg","images/specimens/OCS002/OCS002-3.jpg","images/specimens/OCS002/OCS002-4.jpg","images/specimens/OCS002/OCS002-5.jpg","images/specimens/OCS002/OCS002-6.jpg","images/specimens/OCS002/OCS002-7.jpg"]
+    "image": "images/OCS002/OCS002-1.jpg",
+    "images": ["images/OCS002/OCS002-1.jpg","images/OCS002/OCS002-2.jpg","images/OCS002/OCS002-3.jpg","images/OCS002/OCS002-4.jpg","images/OCS002/OCS002-5.jpg","images/OCS002/OCS002-6.jpg","images/OCS002/OCS002-7.jpg"]
   },
   {
     "specimenId": "OCS-003",
@@ -44,8 +44,8 @@
     "characterization": "Atlas DCA55: PNP germanium; hFE 39 @ Ic 2.50 mA; VBE 0.263 V; IB 0.0624 mA; leakage current 0.035 mA.",
     "observation": "Notable within the A101 group for comparatively low measured leakage at accession.",
     "history": "Identity, manufacturer attribution, and dating remain subject to continued archival research. Electrical values are specimen-specific measurements recorded at accession.",
-    "image": "images/specimens/OCS003/OCS003-1.jpg",
-    "images": ["images/specimens/OCS003/OCS003-1.jpg","images/specimens/OCS003/OCS003-2.jpg","images/specimens/OCS003/OCS003-3.jpg","images/specimens/OCS003/OCS003-4.jpg","images/specimens/OCS003/OCS003-5.jpg","images/specimens/OCS003/OCS003-6.jpg","images/specimens/OCS003/OCS003-7.jpg"]
+    "image": "images/OCS003/OCS003-1.jpg",
+    "images": ["images/OCS003/OCS003-1.jpg","images/OCS003/OCS003-2.jpg","images/OCS003/OCS003-3.jpg","images/OCS003/OCS003-4.jpg","images/OCS003/OCS003-5.jpg","images/OCS003/OCS003-6.jpg","images/OCS003/OCS003-7.jpg"]
   },
   {
     "specimenId": "OCS-004",
@@ -60,8 +60,8 @@
     "characterization": "Atlas DCA55: PNP germanium; hFE 44 @ Ic 2.50 mA; VBE 0.235 V; IB 0.0524 mA; leakage current 0.139 mA.",
     "observation": "Preserved as a discrete data point within the A101 group for later comparison and study.",
     "history": "Identity, manufacturer attribution, and dating remain subject to continued archival research. Electrical values are specimen-specific measurements recorded at accession.",
-    "image": "images/specimens/OCS004/OCS004-1.jpg",
-    "images": ["images/specimens/OCS004/OCS004-1.jpg","images/specimens/OCS004/OCS004-2.jpg","images/specimens/OCS004/OCS004-3.jpg","images/specimens/OCS004/OCS004-4.jpg","images/specimens/OCS004/OCS004-5.jpg","images/specimens/OCS004/OCS004-6.jpg","images/specimens/OCS004/OCS004-7.jpg"]
+    "image": "images/OCS004/OCS004-1.jpg",
+    "images": ["images/OCS004/OCS004-1.jpg","images/OCS004/OCS004-2.jpg","images/OCS004/OCS004-3.jpg","images/OCS004/OCS004-4.jpg","images/OCS004/OCS004-5.jpg","images/OCS004/OCS004-6.jpg","images/OCS004/OCS004-7.jpg"]
   },
   {
     "specimenId": "OCS-005",
@@ -76,8 +76,8 @@
     "characterization": "Atlas DCA55: PNP germanium; hFE 39 @ Ic 2.50 mA; VBE 0.243 V; IB 0.0599 mA; leakage current 0.141 mA.",
     "observation": "A second lower-gain A101 specimen, useful for preserving the spread of behavior within the accessioned group.",
     "history": "Identity, manufacturer attribution, and dating remain subject to continued archival research. Electrical values are specimen-specific measurements recorded at accession.",
-    "image": "images/specimens/OCS005/OCS005-1.jpg",
-    "images": ["images/specimens/OCS005/OCS005-1.jpg","images/specimens/OCS005/OCS005-2.jpg","images/specimens/OCS005/OCS005-3.jpg","images/specimens/OCS005/OCS005-4.jpg","images/specimens/OCS005/OCS005-5.jpg","images/specimens/OCS005/OCS005-6.jpg","images/specimens/OCS005/OCS005-7.jpg"]
+    "image": "images/OCS005/OCS005-1.jpg",
+    "images": ["images/OCS005/OCS005-1.jpg","images/OCS005/OCS005-2.jpg","images/OCS005/OCS005-3.jpg","images/OCS005/OCS005-4.jpg","images/OCS005/OCS005-5.jpg","images/OCS005/OCS005-6.jpg","images/OCS005/OCS005-7.jpg"]
   },
   {
     "specimenId": "OCS-006",
@@ -92,8 +92,8 @@
     "characterization": "Atlas DCA55: PNP germanium; hFE 86 @ Ic 2.50 mA; VBE 0.235 V; IB 0.0250 mA; leakage current 0.341 mA. Retained and documented as a functional but comparatively leaky specimen.",
     "observation": "The elevated leakage is part of this individual specimen's record, not a reason for exclusion from the archive.",
     "history": "Identity, manufacturer attribution, and dating remain subject to continued archival research. Electrical values are specimen-specific measurements recorded at accession.",
-    "image": "images/specimens/OCS006/OCS006-1.jpg",
-    "images": ["images/specimens/OCS006/OCS006-1.jpg","images/specimens/OCS006/OCS006-2.jpg","images/specimens/OCS006/OCS006-3.jpg","images/specimens/OCS006/OCS006-4.jpg","images/specimens/OCS006/OCS006-5.jpg","images/specimens/OCS006/OCS006-6.jpg","images/specimens/OCS006/OCS006-7.jpg"]
+    "image": "images/OCS006/OCS006-1.jpg",
+    "images": ["images/OCS006/OCS006-1.jpg","images/OCS006/OCS006-2.jpg","images/OCS006/OCS006-3.jpg","images/OCS006/OCS006-4.jpg","images/OCS006/OCS006-5.jpg","images/OCS006/OCS006-6.jpg","images/OCS006/OCS006-7.jpg"]
   },
   {
     "specimenId": "OCS-007",
@@ -108,8 +108,8 @@
     "characterization": "Atlas DCA55: PNP silicon; hFE 188 @ Ic 2.50 mA; VBE 0.685 V; IB 0.0132 mA; leakage current 0.000 mA.",
     "observation": "A high-gain silicon specimen with no measurable leakage on the DCA55 at accession.",
     "history": "Manufacturer and date-code interpretation remain open research questions; the original markings are preserved in the photo record.",
-    "image": "images/specimens/OCS007/OCS007-1.jpg",
-    "images": ["images/specimens/OCS007/OCS007-1.jpg","images/specimens/OCS007/OCS007-2.jpg","images/specimens/OCS007/OCS007-3.jpg","images/specimens/OCS007/OCS007-4.jpg","images/specimens/OCS007/OCS007-5.jpg","images/specimens/OCS007/OCS007-6.jpg"]
+    "image": "images/OCS007/OCS007-1.jpg",
+    "images": ["images/OCS007/OCS007-1.jpg","images/OCS007/OCS007-2.jpg","images/OCS007/OCS007-3.jpg","images/OCS007/OCS007-4.jpg","images/OCS007/OCS007-5.jpg","images/OCS007/OCS007-6.jpg"]
   },
   {
     "specimenId": "OCS-008",
@@ -124,8 +124,8 @@
     "characterization": "Atlas DCA55: PNP silicon; hFE 157 @ Ic 2.50 mA; VBE 0.680 V; IB 0.0155 mA; leakage current 0.000 mA.",
     "observation": "Closely related to OCS-007 while retaining its own measured gain and bias characteristics.",
     "history": "Manufacturer and date-code interpretation remain open research questions; the original markings are preserved in the photo record.",
-    "image": "images/specimens/OCS008/OCS008-1.jpg",
-    "images": ["images/specimens/OCS008/OCS008-1.jpg","images/specimens/OCS008/OCS008-2.jpg","images/specimens/OCS008/OCS008-3.jpg","images/specimens/OCS008/OCS008-4.jpg","images/specimens/OCS008/OCS008-5.jpg","images/specimens/OCS008/OCS008-6.jpg"]
+    "image": "images/OCS008/OCS008-1.jpg",
+    "images": ["images/OCS008/OCS008-1.jpg","images/OCS008/OCS008-2.jpg","images/OCS008/OCS008-3.jpg","images/OCS008/OCS008-4.jpg","images/OCS008/OCS008-5.jpg","images/OCS008/OCS008-6.jpg"]
   },
   {
     "specimenId": "OCS-009",
@@ -140,8 +140,8 @@
     "characterization": "Atlas DCA55: PNP silicon; hFE 152 @ Ic 2.50 mA; VBE 0.682 V; IB 0.0164 mA; leakage current 0.000 mA.",
     "observation": "Another member of the A564A accession group with stable silicon behavior and no measured leakage.",
     "history": "Manufacturer and date-code interpretation remain open research questions; the original markings are preserved in the photo record.",
-    "image": "images/specimens/OCS009/OCS009-1.jpg",
-    "images": ["images/specimens/OCS009/OCS009-1.jpg","images/specimens/OCS009/OCS009-2.jpg","images/specimens/OCS009/OCS009-3.jpg","images/specimens/OCS009/OCS009-4.jpg","images/specimens/OCS009/OCS009-5.jpg","images/specimens/OCS009/OCS009-6.jpg"]
+    "image": "images/OCS009/OCS009-1.jpg",
+    "images": ["images/OCS009/OCS009-1.jpg","images/OCS009/OCS009-2.jpg","images/OCS009/OCS009-3.jpg","images/OCS009/OCS009-4.jpg","images/OCS009/OCS009-5.jpg","images/OCS009/OCS009-6.jpg"]
   },
   {
     "specimenId": "OCS-010",
@@ -156,8 +156,8 @@
     "characterization": "Atlas DCA55: PNP silicon; hFE 170 @ Ic 2.50 mA; VBE 0.682 V; IB 0.0146 mA; leakage current 0.000 mA.",
     "observation": "Completes the currently accessioned A564A group and preserves an additional high-gain, zero-measured-leakage data point.",
     "history": "Manufacturer and date-code interpretation remain open research questions; the original markings are preserved in the photo record.",
-    "image": "images/specimens/OCS010/OCS010-1.jpg",
-    "images": ["images/specimens/OCS010/OCS010-1.jpg","images/specimens/OCS010/OCS010-2.jpg","images/specimens/OCS010/OCS010-3.jpg","images/specimens/OCS010/OCS010-4.jpg","images/specimens/OCS010/OCS010-5.jpg","images/specimens/OCS010/OCS010-6.jpg"]
+    "image": "images/OCS010/OCS010-1.jpg",
+    "images": ["images/OCS010/OCS010-1.jpg","images/OCS010/OCS010-2.jpg","images/OCS010/OCS010-3.jpg","images/OCS010/OCS010-4.jpg","images/OCS010/OCS010-5.jpg","images/OCS010/OCS010-6.jpg"]
   },
   {
     "specimenId": "OCS-011",
@@ -172,8 +172,8 @@
     "characterization": "Atlas DCA55: PNP germanium; hFE 80 @ Ic 2.50 mA; VBE 0.173 V; IB 0.0302 mA; leakage current 0.088 mA.",
     "observation": "The unusual crescent-moon maker's mark is retained as a central identification clue pending manufacturer research.",
     "history": "The can is marked 3AX31AS with a crescent-moon logo and code 91-4. Manufacturer attribution and code interpretation remain intentionally unresolved until verified.",
-    "image": "images/specimens/OCS011/OCS011-1.jpg",
-    "images": ["images/specimens/OCS011/OCS011-1.jpg","images/specimens/OCS011/OCS011-2.jpg","images/specimens/OCS011/OCS011-3.jpg","images/specimens/OCS011/OCS011-4.jpg","images/specimens/OCS011/OCS011-5.jpg","images/specimens/OCS011/OCS011-6.jpg","images/specimens/OCS011/OCS011-7.jpg"]
+    "image": "images/OCS011/OCS011-1.jpg",
+    "images": ["images/OCS011/OCS011-1.jpg","images/OCS011/OCS011-2.jpg","images/OCS011/OCS011-3.jpg","images/OCS011/OCS011-4.jpg","images/OCS011/OCS011-5.jpg","images/OCS011/OCS011-6.jpg","images/OCS011/OCS011-7.jpg"]
   },
   {
     "specimenId": "OCS-012",
@@ -188,8 +188,8 @@
     "characterization": "Atlas DCA55: PNP germanium; hFE 43 @ Ic 2.50 mA; VBE 0.162 V; IB 0.0596 mA; leakage current 1.181 mA. Retained as a strongly leaky but electrically identifiable specimen.",
     "observation": "The very high leakage is itself historically and technically valuable specimen data and is preserved without disqualifying the device from the archive.",
     "history": "The can is marked 3AX31AS with a crescent-moon logo and code 91-4. Manufacturer attribution and code interpretation remain intentionally unresolved until verified.",
-    "image": "images/specimens/OCS012/OCS012-1.jpg",
-    "images": ["images/specimens/OCS012/OCS012-1.jpg","images/specimens/OCS012/OCS012-2.jpg","images/specimens/OCS012/OCS012-3.jpg","images/specimens/OCS012/OCS012-4.jpg","images/specimens/OCS012/OCS012-5.jpg","images/specimens/OCS012/OCS012-6.jpg","images/specimens/OCS012/OCS012-7.jpg"]
+    "image": "images/OCS012/OCS012-1.jpg",
+    "images": ["images/OCS012/OCS012-1.jpg","images/OCS012/OCS012-2.jpg","images/OCS012/OCS012-3.jpg","images/OCS012/OCS012-4.jpg","images/OCS012/OCS012-5.jpg","images/OCS012/OCS012-6.jpg","images/OCS012/OCS012-7.jpg"]
   },
   {
     "specimenId": "OCS-013",
@@ -204,8 +204,8 @@
     "characterization": "Atlas DCA55: PNP germanium; hFE 77 @ Ic 2.50 mA; VBE 0.153 V; IB 0.0279 mA; leakage current 0.331 mA. Retained as a functional but comparatively leaky specimen.",
     "observation": "A useful comparison point between the much lower-leakage OCS-011 and the extremely leaky OCS-012.",
     "history": "The can is marked 3AX31AS with a crescent-moon logo and code 91-4. Manufacturer attribution and code interpretation remain intentionally unresolved until verified.",
-    "image": "images/specimens/OCS013/OCS013-1.jpg",
-    "images": ["images/specimens/OCS013/OCS013-1.jpg","images/specimens/OCS013/OCS013-2.jpg","images/specimens/OCS013/OCS013-3.jpg","images/specimens/OCS013/OCS013-4.jpg","images/specimens/OCS013/OCS013-5.jpg","images/specimens/OCS013/OCS013-6.jpg","images/specimens/OCS013/OCS013-7.jpg"]
+    "image": "images/OCS013/OCS013-1.jpg",
+    "images": ["images/OCS013/OCS013-1.jpg","images/OCS013/OCS013-2.jpg","images/OCS013/OCS013-3.jpg","images/OCS013/OCS013-4.jpg","images/OCS013/OCS013-5.jpg","images/OCS013/OCS013-6.jpg","images/OCS013/OCS013-7.jpg"]
   },
   {
     "specimenId": "OCS-014",
@@ -220,8 +220,8 @@
     "characterization": "Atlas DCA55: NPN silicon; hFE 51 @ Ic 2.50 mA; VBE 0.661 V; IB 0.0490 mA; leakage current 0.000 mA.",
     "observation": "A metal-can silicon specimen with manufacturer identity visible while the exact part-number interpretation remains under archival review.",
     "history": "International Rectifier attribution is based on the visible maker branding. Exact device designation and date-code interpretation remain pending verification.",
-    "image": "images/specimens/OCS014/OCS014-1.jpg",
-    "images": ["images/specimens/OCS014/OCS014-1.jpg","images/specimens/OCS014/OCS014-2.jpg","images/specimens/OCS014/OCS014-3.jpg","images/specimens/OCS014/OCS014-4.jpg","images/specimens/OCS014/OCS014-5.jpg","images/specimens/OCS014/OCS014-6.jpg","images/specimens/OCS014/OCS014-7.jpg"]
+    "image": "images/OCS014/OCS014-1.jpg",
+    "images": ["images/OCS014/OCS014-1.jpg","images/OCS014/OCS014-2.jpg","images/OCS014/OCS014-3.jpg","images/OCS014/OCS014-4.jpg","images/OCS014/OCS014-5.jpg","images/OCS014/OCS014-6.jpg","images/OCS014/OCS014-7.jpg"]
   },
   {
     "specimenId": "OCS-015",
@@ -236,8 +236,8 @@
     "characterization": "Atlas DCA55: PNP silicon; hFE 81 @ Ic 2.50 mA; VBE 0.713 V; IB 0.0309 mA; leakage current 0.000 mA.",
     "observation": "Electrical identity is clear even though the historical identity of the can remains unresolved, making the specimen a useful example of separating measured fact from attribution.",
     "history": "The exact manufacturer and part number are deliberately left unresolved rather than inferred from incomplete markings.",
-    "image": "images/specimens/OCS015/OCS015-1.jpg",
-    "images": ["images/specimens/OCS015/OCS015-1.jpg","images/specimens/OCS015/OCS015-2.jpg","images/specimens/OCS015/OCS015-3.jpg","images/specimens/OCS015/OCS015-4.jpg","images/specimens/OCS015/OCS015-5.jpg","images/specimens/OCS015/OCS015-6.jpg","images/specimens/OCS015/OCS015-7.jpg"]
+    "image": "images/OCS015/OCS015-1.jpg",
+    "images": ["images/OCS015/OCS015-1.jpg","images/OCS015/OCS015-2.jpg","images/OCS015/OCS015-3.jpg","images/OCS015/OCS015-4.jpg","images/OCS015/OCS015-5.jpg","images/OCS015/OCS015-6.jpg","images/OCS015/OCS015-7.jpg"]
   },
   {
     "specimenId": "OCS-016",
@@ -252,7 +252,7 @@
     "characterization": "Atlas DCA55: NPN silicon; hFE 68 @ Ic 2.50 mA; VBE 0.765 V; IB 0.0367 mA; leakage current 0.000 mA.",
     "observation": "This accession preserves both the measured electrical identity and the unresolved question of how the stamped '40 235' should be formally interpreted.",
     "history": "The accession card records TEC and a provisional 2N40235 reading pending verification. The archive preserves that uncertainty rather than converting it into an unsupported identification.",
-    "image": "images/specimens/OCS016/OCS016-1.jpg",
-    "images": ["images/specimens/OCS016/OCS016-1.jpg","images/specimens/OCS016/OCS016-2.jpg","images/specimens/OCS016/OCS016-3.jpg","images/specimens/OCS016/OCS016-4.jpg","images/specimens/OCS016/OCS016-5.jpg","images/specimens/OCS016/OCS016-6.jpg","images/specimens/OCS016/OCS016-7.jpg"]
+    "image": "images/OCS016/OCS016-1.jpg",
+    "images": ["images/OCS016/OCS016-1.jpg","images/OCS016/OCS016-2.jpg","images/OCS016/OCS016-3.jpg","images/OCS016/OCS016-4.jpg","images/OCS016/OCS016-5.jpg","images/OCS016/OCS016-6.jpg","images/OCS016/OCS016-7.jpg"]
   }
 ]
