@@ -955,3 +955,66 @@ body {
 .modal-photo-thumb.active { border-color:#111; }
 .modal-photo-thumb img { display:block; width:100%; height:100%; object-fit:cover; }
 @media (max-width:640px){ .modal-photo-gallery{min-height:220px}.modal-main-image{height:44vh}.modal-photo-nav{width:38px;height:48px} }
+
+/* ===== SPECIMEN PHOTO GALLERY SIZE FIX ===== */
+
+.modal-photo-gallery {
+  min-height: 0;
+  padding: 16px 60px;
+}
+
+.modal-main-image {
+  display: block;
+  width: auto;
+  max-width: 100%;
+  height: auto;
+  max-height: 440px;
+  margin: 0 auto;
+  object-fit: contain;
+}
+
+.modal-photo-strip {
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding: 10px 4px;
+  justify-content: flex-start;
+}
+
+.modal-photo-thumbnail {
+  flex: 0 0 auto;
+  width: 72px;
+  height: 72px;
+  padding: 0;
+  border: 2px solid transparent;
+  background: transparent;
+  cursor: pointer;
+  overflow: hidden;
+}
+
+.modal-photo-thumbnail.active {
+  border-color: #111;
+}
+
+.modal-photo-thumbnail img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (max-width: 640px) {
+  .modal-photo-gallery {
+    padding: 12px 42px;
+  }
+
+  .modal-main-image {
+    max-height: 320px;
+  }
+
+  .modal-photo-thumbnail {
+    width: 60px;
+    height: 60px;
+  }
+}
+
