@@ -398,5 +398,28 @@
   "history": "Accessioned as the fifth specimen in the documented group of 2N2222 transistors preserved individually within the collection.",
   "image": "images/OCS025/OCS025-1.jpg",
   "images": ["images/OCS025/OCS025-1.jpg","images/OCS025/OCS025-2.jpg","images/OCS025/OCS025-3.jpg","images/OCS025/OCS025-4.jpg","images/OCS025/OCS025-5.jpg"]
-}  
+OCS025 object  },
+  {
+    "specimenId": "OCS-026",
+    "category": "transistor",
+    "name": "Sylvania ECG123 Replacement Transistor",
+    "typeFamily": "NPN replacement semiconductor transistor",
+    "era": "Late 1960s–1970s",
+    "manufacturer": "Sylvania ECG",
+    "markings": "ECG123",
+    "provenance": "Predates Archive; exact acquisition provenance unknown.",
+    "condition": "Bent leads; markings remain clear. Electrically failed with short-circuit behavior.",
+    "characterization": "Electrical testing indicates a failed/shorted semiconductor specimen; not viable for electrical service.",
+    "observation": "A Sylvania ECG replacement-line transistor preserved despite electrical failure as a documented historical specimen.",
+    "history": "Accessioned into the permanent Curated Corrosion collection as OCS-026. Retained as a failed specimen rather than discarded; stored in Failed Specimen Case #1, Slot #1.",
+    "image": "images/OCS026/OCS026-1.jpg",
+    "images": [
+      "images/OCS026/OCS026-1.jpg",
+      "images/OCS026/OCS026-2.jpg",
+      "images/OCS026/OCS026-3.jpg",
+      "images/OCS026/OCS026-4.jpg"
+    ]
+  }
 ]
+
+   
