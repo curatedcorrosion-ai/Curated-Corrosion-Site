@@ -424,5 +424,27 @@
       "images/OCS026/OCS026-3.jpg",
       "images/OCS026/OCS026-4.jpg"
     ]
+  },  {
+    "specimenId": "OCS-027",
+    "category": "transistor",
+    "name": "G.E.C. GET115R2 Germanium Transistor",
+    "typeFamily": "PNP germanium transistor",
+    "era": "Unknown; pending research",
+    "manufacturer": "General Electric Co.",
+    "markings": "G.E.C. GET115R2",
+    "provenance": "Predates Archive; exact acquisition provenance unknown.",
+    "condition": "Electrically and physically viable. Thin, fragile leads; large heat sink.",
+    "characterization": "Viable PNP germanium transistor retained for continued study and potential circuit evaluation.",
+    "observation": "A physically distinctive germanium transistor with a large heat sink and notably thin, fragile leads.",
+    "history": "Accessioned into the permanent Curated Corrosion collection as OCS-027. Stored in Binder #1, Page #3.",
+    "image": "images/OCS027/OCS027-1.jpg",
+    "images": [
+      "images/OCS027/OCS027-1.jpg",
+      "images/OCS027/OCS027-2.jpg",
+      "images/OCS027/OCS027-3.jpg",
+      "images/OCS027/OCS027-4.jpg",
+      "images/OCS027/OCS027-5.jpg",
+      "images/OCS027/OCS027-6.jpg"
+    ]
   }
 ]
