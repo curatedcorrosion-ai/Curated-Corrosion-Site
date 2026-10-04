@@ -13,7 +13,15 @@
     "observation": "An early Curated Corrosion accession retained as an individually documented specimen rather than treated as anonymous parts stock.",
     "history": "Identity, manufacturer attribution, and dating remain subject to continued archival research. Electrical values are specimen-specific measurements recorded at accession.",
     "image": "images/OCS001/OCS001-1.jpg",
-    "images": ["images/OCS001/OCS001-1.jpg","images/OCS001/OCS001-2.jpg","images/OCS001/OCS001-3.jpg","images/OCS001/OCS001-4.jpg","images/OCS001/OCS001-5.jpg","images/OCS001/OCS001-6.jpg","images/OCS001/OCS001-7.jpg"]
+    "images": [
+      "images/OCS001/OCS001-1.jpg",
+      "images/OCS001/OCS001-2.jpg",
+      "images/OCS001/OCS001-3.jpg",
+      "images/OCS001/OCS001-4.jpg",
+      "images/OCS001/OCS001-5.jpg",
+      "images/OCS001/OCS001-6.jpg",
+      "images/OCS001/OCS001-7.jpg"
+    ]
   },
   {
     "specimenId": "OCS-002",
@@ -29,7 +37,15 @@
     "observation": "Part of the same A101 study group as neighboring accessions, allowing individual-device variation to be preserved rather than averaged away.",
     "history": "Identity, manufacturer attribution, and dating remain subject to continued archival research. Electrical values are specimen-specific measurements recorded at accession.",
     "image": "images/OCS002/OCS002-1.jpg",
-    "images": ["images/OCS002/OCS002-1.jpg","images/OCS002/OCS002-2.jpg","images/OCS002/OCS002-3.jpg","images/OCS002/OCS002-4.jpg","images/OCS002/OCS002-5.jpg","images/OCS002/OCS002-6.jpg","images/OCS002/OCS002-7.jpg"]
+    "images": [
+      "images/OCS002/OCS002-1.jpg",
+      "images/OCS002/OCS002-2.jpg",
+      "images/OCS002/OCS002-3.jpg",
+      "images/OCS002/OCS002-4.jpg",
+      "images/OCS002/OCS002-5.jpg",
+      "images/OCS002/OCS002-6.jpg",
+      "images/OCS002/OCS002-7.jpg"
+    ]
   },
   {
     "specimenId": "OCS-003",
@@ -45,7 +61,15 @@
     "observation": "Notable within the A101 group for comparatively low measured leakage at accession.",
     "history": "Identity, manufacturer attribution, and dating remain subject to continued archival research. Electrical values are specimen-specific measurements recorded at accession.",
     "image": "images/OCS003/OCS003-1.jpg",
-    "images": ["images/OCS003/OCS003-1.jpg","images/OCS003/OCS003-2.jpg","images/OCS003/OCS003-3.jpg","images/OCS003/OCS003-4.jpg","images/OCS003/OCS003-5.jpg","images/OCS003/OCS003-6.jpg","images/OCS003/OCS003-7.jpg"]
+    "images": [
+      "images/OCS003/OCS003-1.jpg",
+      "images/OCS003/OCS003-2.jpg",
+      "images/OCS003/OCS003-3.jpg",
+      "images/OCS003/OCS003-4.jpg",
+      "images/OCS003/OCS003-5.jpg",
+      "images/OCS003/OCS003-6.jpg",
+      "images/OCS003/OCS003-7.jpg"
+    ]
   },
   {
     "specimenId": "OCS-004",
@@ -61,7 +85,15 @@
     "observation": "Preserved as a discrete data point within the A101 group for later comparison and study.",
     "history": "Identity, manufacturer attribution, and dating remain subject to continued archival research. Electrical values are specimen-specific measurements recorded at accession.",
     "image": "images/OCS004/OCS004-1.jpg",
-    "images": ["images/OCS004/OCS004-1.jpg","images/OCS004/OCS004-2.jpg","images/OCS004/OCS004-3.jpg","images/OCS004/OCS004-4.jpg","images/OCS004/OCS004-5.jpg","images/OCS004/OCS004-6.jpg","images/OCS004/OCS004-7.jpg"]
+    "images": [
+      "images/OCS004/OCS004-1.jpg",
+      "images/OCS004/OCS004-2.jpg",
+      "images/OCS004/OCS004-3.jpg",
+      "images/OCS004/OCS004-4.jpg",
+      "images/OCS004/OCS004-5.jpg",
+      "images/OCS004/OCS004-6.jpg",
+      "images/OCS004/OCS004-7.jpg"
+    ]
   },
   {
     "specimenId": "OCS-005",
@@ -77,7 +109,15 @@
     "observation": "A second lower-gain A101 specimen, useful for preserving the spread of behavior within the accessioned group.",
     "history": "Identity, manufacturer attribution, and dating remain subject to continued archival research. Electrical values are specimen-specific measurements recorded at accession.",
     "image": "images/OCS005/OCS005-1.jpg",
-    "images": ["images/OCS005/OCS005-1.jpg","images/OCS005/OCS005-2.jpg","images/OCS005/OCS005-3.jpg","images/OCS005/OCS005-4.jpg","images/OCS005/OCS005-5.jpg","images/OCS005/OCS005-6.jpg","images/OCS005/OCS005-7.jpg"]
+    "images": [
+      "images/OCS005/OCS005-1.jpg",
+      "images/OCS005/OCS005-2.jpg",
+      "images/OCS005/OCS005-3.jpg",
+      "images/OCS005/OCS005-4.jpg",
+      "images/OCS005/OCS005-5.jpg",
+      "images/OCS005/OCS005-6.jpg",
+      "images/OCS005/OCS005-7.jpg"
+    ]
   },
   {
     "specimenId": "OCS-006",
@@ -93,7 +133,15 @@
     "observation": "The elevated leakage is part of this individual specimen's record, not a reason for exclusion from the archive.",
     "history": "Identity, manufacturer attribution, and dating remain subject to continued archival research. Electrical values are specimen-specific measurements recorded at accession.",
     "image": "images/OCS006/OCS006-1.jpg",
-    "images": ["images/OCS006/OCS006-1.jpg","images/OCS006/OCS006-2.jpg","images/OCS006/OCS006-3.jpg","images/OCS006/OCS006-4.jpg","images/OCS006/OCS006-5.jpg","images/OCS006/OCS006-6.jpg","images/OCS006/OCS006-7.jpg"]
+    "images": [
+      "images/OCS006/OCS006-1.jpg",
+      "images/OCS006/OCS006-2.jpg",
+      "images/OCS006/OCS006-3.jpg",
+      "images/OCS006/OCS006-4.jpg",
+      "images/OCS006/OCS006-5.jpg",
+      "images/OCS006/OCS006-6.jpg",
+      "images/OCS006/OCS006-7.jpg"
+    ]
   },
   {
     "specimenId": "OCS-007",
@@ -109,7 +157,14 @@
     "observation": "A high-gain silicon specimen with no measurable leakage on the DCA55 at accession.",
     "history": "Manufacturer and date-code interpretation remain open research questions; the original markings are preserved in the photo record.",
     "image": "images/OCS007/OCS007-1.jpg",
-    "images": ["images/OCS007/OCS007-1.jpg","images/OCS007/OCS007-2.jpg","images/OCS007/OCS007-3.jpg","images/OCS007/OCS007-4.jpg","images/OCS007/OCS007-5.jpg","images/OCS007/OCS007-6.jpg"]
+    "images": [
+      "images/OCS007/OCS007-1.jpg",
+      "images/OCS007/OCS007-2.jpg",
+      "images/OCS007/OCS007-3.jpg",
+      "images/OCS007/OCS007-4.jpg",
+      "images/OCS007/OCS007-5.jpg",
+      "images/OCS007/OCS007-6.jpg"
+    ]
   },
   {
     "specimenId": "OCS-008",
@@ -125,7 +180,14 @@
     "observation": "Closely related to OCS-007 while retaining its own measured gain and bias characteristics.",
     "history": "Manufacturer and date-code interpretation remain open research questions; the original markings are preserved in the photo record.",
     "image": "images/OCS008/OCS008-1.jpg",
-    "images": ["images/OCS008/OCS008-1.jpg","images/OCS008/OCS008-2.jpg","images/OCS008/OCS008-3.jpg","images/OCS008/OCS008-4.jpg","images/OCS008/OCS008-5.jpg","images/OCS008/OCS008-6.jpg"]
+    "images": [
+      "images/OCS008/OCS008-1.jpg",
+      "images/OCS008/OCS008-2.jpg",
+      "images/OCS008/OCS008-3.jpg",
+      "images/OCS008/OCS008-4.jpg",
+      "images/OCS008/OCS008-5.jpg",
+      "images/OCS008/OCS008-6.jpg"
+    ]
   },
   {
     "specimenId": "OCS-009",
@@ -141,7 +203,14 @@
     "observation": "Another member of the A564A accession group with stable silicon behavior and no measured leakage.",
     "history": "Manufacturer and date-code interpretation remain open research questions; the original markings are preserved in the photo record.",
     "image": "images/OCS009/OCS009-1.jpg",
-    "images": ["images/OCS009/OCS009-1.jpg","images/OCS009/OCS009-2.jpg","images/OCS009/OCS009-3.jpg","images/OCS009/OCS009-4.jpg","images/OCS009/OCS009-5.jpg","images/OCS009/OCS009-6.jpg"]
+    "images": [
+      "images/OCS009/OCS009-1.jpg",
+      "images/OCS009/OCS009-2.jpg",
+      "images/OCS009/OCS009-3.jpg",
+      "images/OCS009/OCS009-4.jpg",
+      "images/OCS009/OCS009-5.jpg",
+      "images/OCS009/OCS009-6.jpg"
+    ]
   },
   {
     "specimenId": "OCS-010",
@@ -157,7 +226,14 @@
     "observation": "Completes the currently accessioned A564A group and preserves an additional high-gain, zero-measured-leakage data point.",
     "history": "Manufacturer and date-code interpretation remain open research questions; the original markings are preserved in the photo record.",
     "image": "images/OCS010/OCS010-1.jpg",
-    "images": ["images/OCS010/OCS010-1.jpg","images/OCS010/OCS010-2.jpg","images/OCS010/OCS010-3.jpg","images/OCS010/OCS010-4.jpg","images/OCS010/OCS010-5.jpg","images/OCS010/OCS010-6.jpg"]
+    "images": [
+      "images/OCS010/OCS010-1.jpg",
+      "images/OCS010/OCS010-2.jpg",
+      "images/OCS010/OCS010-3.jpg",
+      "images/OCS010/OCS010-4.jpg",
+      "images/OCS010/OCS010-5.jpg",
+      "images/OCS010/OCS010-6.jpg"
+    ]
   },
   {
     "specimenId": "OCS-011",
@@ -173,7 +249,15 @@
     "observation": "The unusual crescent-moon maker's mark is retained as a central identification clue pending manufacturer research.",
     "history": "The can is marked 3AX31AS with a crescent-moon logo and code 91-4. Manufacturer attribution and code interpretation remain intentionally unresolved until verified.",
     "image": "images/OCS011/OCS011-1.jpg",
-    "images": ["images/OCS011/OCS011-1.jpg","images/OCS011/OCS011-2.jpg","images/OCS011/OCS011-3.jpg","images/OCS011/OCS011-4.jpg","images/OCS011/OCS011-5.jpg","images/OCS011/OCS011-6.jpg","images/OCS011/OCS011-7.jpg"]
+    "images": [
+      "images/OCS011/OCS011-1.jpg",
+      "images/OCS011/OCS011-2.jpg",
+      "images/OCS011/OCS011-3.jpg",
+      "images/OCS011/OCS011-4.jpg",
+      "images/OCS011/OCS011-5.jpg",
+      "images/OCS011/OCS011-6.jpg",
+      "images/OCS011/OCS011-7.jpg"
+    ]
   },
   {
     "specimenId": "OCS-012",
@@ -189,7 +273,15 @@
     "observation": "The very high leakage is itself historically and technically valuable specimen data and is preserved without disqualifying the device from the archive.",
     "history": "The can is marked 3AX31AS with a crescent-moon logo and code 91-4. Manufacturer attribution and code interpretation remain intentionally unresolved until verified.",
     "image": "images/OCS012/OCS012-1.jpg",
-    "images": ["images/OCS012/OCS012-1.jpg","images/OCS012/OCS012-2.jpg","images/OCS012/OCS012-3.jpg","images/OCS012/OCS012-4.jpg","images/OCS012/OCS012-5.jpg","images/OCS012/OCS012-6.jpg","images/OCS012/OCS012-7.jpg"]
+    "images": [
+      "images/OCS012/OCS012-1.jpg",
+      "images/OCS012/OCS012-2.jpg",
+      "images/OCS012/OCS012-3.jpg",
+      "images/OCS012/OCS012-4.jpg",
+      "images/OCS012/OCS012-5.jpg",
+      "images/OCS012/OCS012-6.jpg",
+      "images/OCS012/OCS012-7.jpg"
+    ]
   },
   {
     "specimenId": "OCS-013",
@@ -205,7 +297,15 @@
     "observation": "A useful comparison point between the much lower-leakage OCS-011 and the extremely leaky OCS-012.",
     "history": "The can is marked 3AX31AS with a crescent-moon logo and code 91-4. Manufacturer attribution and code interpretation remain intentionally unresolved until verified.",
     "image": "images/OCS013/OCS013-1.jpg",
-    "images": ["images/OCS013/OCS013-1.jpg","images/OCS013/OCS013-2.jpg","images/OCS013/OCS013-3.jpg","images/OCS013/OCS013-4.jpg","images/OCS013/OCS013-5.jpg","images/OCS013/OCS013-6.jpg","images/OCS013/OCS013-7.jpg"]
+    "images": [
+      "images/OCS013/OCS013-1.jpg",
+      "images/OCS013/OCS013-2.jpg",
+      "images/OCS013/OCS013-3.jpg",
+      "images/OCS013/OCS013-4.jpg",
+      "images/OCS013/OCS013-5.jpg",
+      "images/OCS013/OCS013-6.jpg",
+      "images/OCS013/OCS013-7.jpg"
+    ]
   },
   {
     "specimenId": "OCS-014",
@@ -221,7 +321,15 @@
     "observation": "A metal-can silicon specimen with manufacturer identity visible while the exact part-number interpretation remains under archival review.",
     "history": "International Rectifier attribution is based on the visible maker branding. Exact device designation and date-code interpretation remain pending verification.",
     "image": "images/OCS014/OCS014-1.jpg",
-    "images": ["images/OCS014/OCS014-1.jpg","images/OCS014/OCS014-2.jpg","images/OCS014/OCS014-3.jpg","images/OCS014/OCS014-4.jpg","images/OCS014/OCS014-5.jpg","images/OCS014/OCS014-6.jpg","images/OCS014/OCS014-7.jpg"]
+    "images": [
+      "images/OCS014/OCS014-1.jpg",
+      "images/OCS014/OCS014-2.jpg",
+      "images/OCS014/OCS014-3.jpg",
+      "images/OCS014/OCS014-4.jpg",
+      "images/OCS014/OCS014-5.jpg",
+      "images/OCS014/OCS014-6.jpg",
+      "images/OCS014/OCS014-7.jpg"
+    ]
   },
   {
     "specimenId": "OCS-015",
@@ -237,7 +345,15 @@
     "observation": "Electrical identity is clear even though the historical identity of the can remains unresolved, making the specimen a useful example of separating measured fact from attribution.",
     "history": "The exact manufacturer and part number are deliberately left unresolved rather than inferred from incomplete markings.",
     "image": "images/OCS015/OCS015-1.jpg",
-    "images": ["images/OCS015/OCS015-1.jpg","images/OCS015/OCS015-2.jpg","images/OCS015/OCS015-3.jpg","images/OCS015/OCS015-4.jpg","images/OCS015/OCS015-5.jpg","images/OCS015/OCS015-6.jpg","images/OCS015/OCS015-7.jpg"]
+    "images": [
+      "images/OCS015/OCS015-1.jpg",
+      "images/OCS015/OCS015-2.jpg",
+      "images/OCS015/OCS015-3.jpg",
+      "images/OCS015/OCS015-4.jpg",
+      "images/OCS015/OCS015-5.jpg",
+      "images/OCS015/OCS015-6.jpg",
+      "images/OCS015/OCS015-7.jpg"
+    ]
   },
   {
     "specimenId": "OCS-016",
@@ -253,151 +369,213 @@
     "observation": "This accession preserves both the measured electrical identity and the unresolved question of how the stamped '40 235' should be formally interpreted.",
     "history": "The accession card records TEC and a provisional 2N40235 reading pending verification. The archive preserves that uncertainty rather than converting it into an unsupported identification.",
     "image": "images/OCS016/OCS016-1.jpg",
-    "images": ["images/OCS016/OCS016-1.jpg","images/OCS016/OCS016-2.jpg","images/OCS016/OCS016-3.jpg","images/OCS016/OCS016-4.jpg","images/OCS016/OCS016-5.jpg","images/OCS016/OCS016-6.jpg","images/OCS016/OCS016-7.jpg"]
+    "images": [
+      "images/OCS016/OCS016-1.jpg",
+      "images/OCS016/OCS016-2.jpg",
+      "images/OCS016/OCS016-3.jpg",
+      "images/OCS016/OCS016-4.jpg",
+      "images/OCS016/OCS016-5.jpg",
+      "images/OCS016/OCS016-6.jpg",
+      "images/OCS016/OCS016-7.jpg"
+    ]
   },
   {
-  "specimenId": "OCS-017",
-  "category": "transistor",
-  "name": "TEC 2N40235 NPN Silicon Transistor",
-  "typeFamily": "NPN silicon transistor; 2N40235 identification pending verification",
-  "era": "Vintage; precise production date pending research",
-  "manufacturer": "TEC",
-  "markings": "TEC; 2N40235 interpretation pending verification",
-  "provenance": "eBay acquisition from seller Kmartage; 2026-07-22; Jasper, Florida. Detailed lot documentation retained in the collection archive.",
-  "condition": "Good vintage condition; aged patina on printing; leads intact. Physically functional. Electrically verified.",
-  "characterization": "Atlas DCA55: NPN silicon; hFE 63 @ Ic 2.50 mA; VBE 0.789 V; IB 0.0389 mA; leakage current 0.000 mA.",
-  "observation": "Electrical characterization confirms a functional NPN silicon transistor while the exact historical interpretation of the TEC 2N40235 marking remains pending verification.",
-  "history": "Accessioned as part of a documented group of TEC-marked vintage transistors acquired together from Jasper, Florida. The archive preserves both the observed markings and electrical measurements without treating the provisional device identification as resolved.",
-  "image": "images/OCS017/OCS017-1.jpg",
-  "images": ["images/OCS017/OCS017-1.jpg","images/OCS017/OCS017-2.jpg","images/OCS017/OCS017-3.jpg","images/OCS017/OCS017-4.jpg","images/OCS017/OCS017-5.jpg","images/OCS017/OCS017-6.jpg","images/OCS017/OCS017-7.jpg"]
-},
+    "specimenId": "OCS-017",
+    "category": "transistor",
+    "name": "TEC 2N40235 NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor; 2N40235 identification pending verification",
+    "era": "Vintage; precise production date pending research",
+    "manufacturer": "TEC",
+    "markings": "TEC; 2N40235 interpretation pending verification",
+    "provenance": "eBay acquisition from seller Kmartage; 2026-07-22; Jasper, Florida. Detailed lot documentation retained in the collection archive.",
+    "condition": "Good vintage condition; aged patina on printing; leads intact. Physically functional. Electrically verified.",
+    "characterization": "Atlas DCA55: NPN silicon; hFE 63 @ Ic 2.50 mA; VBE 0.789 V; IB 0.0389 mA; leakage current 0.000 mA.",
+    "observation": "Electrical characterization confirms a functional NPN silicon transistor while the exact historical interpretation of the TEC 2N40235 marking remains pending verification.",
+    "history": "Accessioned as part of a documented group of TEC-marked vintage transistors acquired together from Jasper, Florida. The archive preserves both the observed markings and electrical measurements without treating the provisional device identification as resolved.",
+    "image": "images/OCS017/OCS017-1.jpg",
+    "images": [
+      "images/OCS017/OCS017-1.jpg",
+      "images/OCS017/OCS017-2.jpg",
+      "images/OCS017/OCS017-3.jpg",
+      "images/OCS017/OCS017-4.jpg",
+      "images/OCS017/OCS017-5.jpg",
+      "images/OCS017/OCS017-6.jpg",
+      "images/OCS017/OCS017-7.jpg"
+    ]
+  },
   {
-  "specimenId": "OCS-018",
-  "category": "transistor",
-  "name": "TEC 2N40235 NPN Silicon Transistor",
-  "typeFamily": "NPN silicon transistor; 2N40235 identification pending verification",
-  "era": "Vintage; precise production date pending research",
-  "manufacturer": "TEC",
-  "markings": "TEC; 2N40235 interpretation pending verification",
-  "provenance": "eBay acquisition from seller Kmartage; 2026-07-22; Jasper, Florida. Detailed lot documentation retained in the collection archive.",
-  "condition": "Good vintage condition; leads intact. Physically functional. Electrically verified.",
-  "characterization": "Atlas DCA55: NPN silicon; hFE 72 @ Ic 2.50 mA; VBE 0.787 V; IB 0.0345 mA; leakage current 0.000 mA.",
-  "observation": "Electrical characterization confirms a functional NPN silicon transistor with zero measured leakage. The exact historical interpretation of the TEC 2N40235 marking remains pending verification.",
-  "history": "Accessioned as part of the same documented group of TEC-marked vintage transistors as OCS016 and OCS017. Individual accession preserves this specimen's measured electrical identity rather than treating the acquired lot as interchangeable components.",
-  "image": "images/OCS018/OCS018-1.jpg",
-  "images": ["images/OCS018/OCS018-1.jpg","images/OCS018/OCS018-2.jpg","images/OCS018/OCS018-3.jpg","images/OCS018/OCS018-4.jpg","images/OCS018/OCS018-5.jpg","images/OCS018/OCS018-6.jpg","images/OCS018/OCS018-7.jpg"]
-},
+    "specimenId": "OCS-018",
+    "category": "transistor",
+    "name": "TEC 2N40235 NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor; 2N40235 identification pending verification",
+    "era": "Vintage; precise production date pending research",
+    "manufacturer": "TEC",
+    "markings": "TEC; 2N40235 interpretation pending verification",
+    "provenance": "eBay acquisition from seller Kmartage; 2026-07-22; Jasper, Florida. Detailed lot documentation retained in the collection archive.",
+    "condition": "Good vintage condition; leads intact. Physically functional. Electrically verified.",
+    "characterization": "Atlas DCA55: NPN silicon; hFE 72 @ Ic 2.50 mA; VBE 0.787 V; IB 0.0345 mA; leakage current 0.000 mA.",
+    "observation": "Electrical characterization confirms a functional NPN silicon transistor with zero measured leakage. The exact historical interpretation of the TEC 2N40235 marking remains pending verification.",
+    "history": "Accessioned as part of the same documented group of TEC-marked vintage transistors as OCS016 and OCS017. Individual accession preserves this specimen's measured electrical identity rather than treating the acquired lot as interchangeable components.",
+    "image": "images/OCS018/OCS018-1.jpg",
+    "images": [
+      "images/OCS018/OCS018-1.jpg",
+      "images/OCS018/OCS018-2.jpg",
+      "images/OCS018/OCS018-3.jpg",
+      "images/OCS018/OCS018-4.jpg",
+      "images/OCS018/OCS018-5.jpg",
+      "images/OCS018/OCS018-6.jpg",
+      "images/OCS018/OCS018-7.jpg"
+    ]
+  },
   {
-  "specimenId": "OCS-019",
-  "category": "transistor",
-  "name": "TEC 2N40235 NPN Silicon Transistor",
-  "typeFamily": "NPN silicon transistor; 2N40235 identification pending verification",
-  "era": "Vintage; precise production date pending research",
-  "manufacturer": "TEC",
-  "markings": "TEC; 2N40235 interpretation pending verification",
-  "provenance": "eBay acquisition from seller Kmartage; 2026-07-22; Jasper, Florida. Detailed lot documentation retained in the collection archive.",
-  "condition": "Good vintage condition; good leads; printing shows age-related wear. Physically functional. Electrically verified.",
-  "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
-  "observation": "A functional vintage NPN silicon transistor from the documented TEC-marked group. The worn printing distinguishes this specimen physically while the exact historical interpretation of the 2N40235 marking remains pending verification.",
-  "history": "Accessioned individually from the same Jasper, Florida acquisition as OCS016–OCS018. Its worn markings and individual electrical characterization are preserved as part of its specimen-specific record.",
-  "image": "images/OCS019/OCS019-1.jpg",
-  "images": ["images/OCS019/OCS019-1.jpg","images/OCS019/OCS019-2.jpg","images/OCS019/OCS019-3.jpg","images/OCS019/OCS019-4.jpg","images/OCS019/OCS019-5.jpg","images/OCS019/OCS019-6.jpg","images/OCS019/OCS019-7.jpg"]
-},
-{
-  "specimenId": "OCS-020",
-  "category": "transistor",
-  "name": "TEC 2N40235 NPN Silicon Transistor",
-  "typeFamily": "NPN silicon transistor; 2N40235 identification pending verification",
-  "era": "Vintage; precise production date pending research",
-  "manufacturer": "TEC",
-  "markings": "TEC; 2N40235 interpretation pending verification",
-  "provenance": "eBay acquisition from seller Kmartage; 2026-07-22; Jasper, Florida. Detailed lot documentation retained in the collection archive.",
-  "condition": "Vintage used condition; bent leads; faded printing. Physically functional. Electrically verified.",
-  "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
-  "observation": "Electrical characterization confirms a functional NPN silicon transistor. The faded printing and bent leads distinguish this specimen within the documented TEC-marked group.",
-  "history": "Accessioned individually from the same Jasper, Florida acquisition as OCS016–OCS019. Its physical wear and individual electrical characterization are preserved as part of its specimen record.",
-  "image": "images/OCS020/OCS020-1.jpg",
-  "images": ["images/OCS020/OCS020-1.jpg","images/OCS020/OCS020-2.jpg","images/OCS020/OCS020-3.jpg","images/OCS020/OCS020-4.jpg","images/OCS020/OCS020-5.jpg"]
-},
-{
-  "specimenId": "OCS-021",
-  "category": "transistor",
-  "name": "2N2222 NPN Silicon Transistor",
-  "typeFamily": "NPN silicon transistor; 2N2222",
-  "era": "Vintage; precise production date pending research",
-  "manufacturer": "Unknown; pending identification",
-  "markings": "2N2222; manufacturer markings pending identification",
-  "provenance": "Acquisition provenance pending archival entry.",
-  "condition": "Worn and used condition; leads cut and bent. Physically functional. Electrically verified.",
-  "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
-  "observation": "A functional vintage 2N2222 NPN silicon transistor exhibiting evidence of prior use through its shortened and bent leads.",
-  "history": "Accessioned as the first specimen in a documented group of 2N2222 transistors preserved individually within the collection.",
-  "image": "images/OCS021/OCS021-1.jpg",
-  "images": ["images/OCS021/OCS021-1.jpg","images/OCS021/OCS021-2.jpg","images/OCS021/OCS021-3.jpg","images/OCS021/OCS021-4.jpg","images/OCS021/OCS021-5.jpg"]
-},
-{
-  "specimenId": "OCS-022",
-  "category": "transistor",
-  "name": "2N2222 NPN Silicon Transistor",
-  "typeFamily": "NPN silicon transistor; 2N2222",
-  "era": "Vintage; precise production date pending research",
-  "manufacturer": "Unknown; pending identification",
-  "markings": "2N2222; manufacturer markings pending identification",
-  "provenance": "Acquisition provenance pending archival entry.",
-  "condition": "Worn and used condition; cut and bent leads. Physically functional. Electrically verified.",
-  "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
-  "observation": "A functional vintage 2N2222 NPN silicon transistor preserved with visible evidence of prior use, including shortened and bent leads.",
-  "history": "Accessioned as the second specimen in the documented group of 2N2222 transistors preserved individually within the collection.",
-  "image": "images/OCS022/OCS022-1.jpg",
-  "images": ["images/OCS022/OCS022-1.jpg","images/OCS022/OCS022-2.jpg","images/OCS022/OCS022-3.jpg","images/OCS022/OCS022-4.jpg","images/OCS022/OCS022-5.jpg"]
-},
-{
-  "specimenId": "OCS-023",
-  "category": "transistor",
-  "name": "2N2222 NPN Silicon Transistor",
-  "typeFamily": "NPN silicon transistor; 2N2222",
-  "era": "Vintage; precise production date pending research",
-  "manufacturer": "Unknown; pending identification",
-  "markings": "2N2222; manufacturer markings pending identification",
-  "provenance": "Acquisition provenance pending archival entry.",
-  "condition": "Worn and used condition; bent and cut leads. Physically functional. Electrically verified.",
-  "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
-  "observation": "A functional vintage 2N2222 NPN silicon transistor preserved with visible evidence of prior use, including shortened and bent leads.",
-  "history": "Accessioned as the third specimen in the documented group of 2N2222 transistors preserved individually within the collection.",
-  "image": "images/OCS023/OCS023-1.jpg",
-  "images": ["images/OCS023/OCS023-1.jpg","images/OCS023/OCS023-2.jpg","images/OCS023/OCS023-3.jpg","images/OCS023/OCS023-4.jpg","images/OCS023/OCS023-5.jpg"]
-},
-{
-  "specimenId": "OCS-024",
-  "category": "transistor",
-  "name": "2N2222 NPN Silicon Transistor",
-  "typeFamily": "NPN silicon transistor; 2N2222",
-  "era": "Vintage; precise production date pending research",
-  "manufacturer": "Unknown; pending identification",
-  "markings": "2N2222; manufacturer markings pending identification",
-  "provenance": "Acquisition provenance pending archival entry.",
-  "condition": "Worn and used condition; cut and bent leads. Physically functional. Electrically verified.",
-  "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
-  "observation": "A functional vintage 2N2222 NPN silicon transistor preserved with visible evidence of prior use, including shortened and bent leads.",
-  "history": "Accessioned as the fourth specimen in the documented group of 2N2222 transistors preserved individually within the collection.",
-  "image": "images/OCS024/OCS024-1.jpg",
-  "images": ["images/OCS024/OCS024-1.jpg","images/OCS024/OCS024-2.jpg","images/OCS024/OCS024-3.jpg","images/OCS024/OCS024-4.jpg","images/OCS024/OCS024-5.jpg"]
-},
-{
-  "specimenId": "OCS-025",
-  "category": "transistor",
-  "name": "2N2222 NPN Silicon Transistor",
-  "typeFamily": "NPN silicon transistor; 2N2222",
-  "era": "Vintage; precise production date pending research",
-  "manufacturer": "Unknown; pending identification",
-  "markings": "2N2222; manufacturer markings pending identification",
-  "provenance": "Acquisition provenance pending archival entry.",
-  "condition": "Worn and used condition; leads cut and bent. Physically functional. Electrically verified.",
-  "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
-  "observation": "A functional vintage 2N2222 NPN silicon transistor preserved with visible evidence of prior use, including shortened and bent leads.",
-  "history": "Accessioned as the fifth specimen in the documented group of 2N2222 transistors preserved individually within the collection.",
-  "image": "images/OCS025/OCS025-1.jpg",
-     "images": [
+    "specimenId": "OCS-019",
+    "category": "transistor",
+    "name": "TEC 2N40235 NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor; 2N40235 identification pending verification",
+    "era": "Vintage; precise production date pending research",
+    "manufacturer": "TEC",
+    "markings": "TEC; 2N40235 interpretation pending verification",
+    "provenance": "eBay acquisition from seller Kmartage; 2026-07-22; Jasper, Florida. Detailed lot documentation retained in the collection archive.",
+    "condition": "Good vintage condition; good leads; printing shows age-related wear. Physically functional. Electrically verified.",
+    "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
+    "observation": "A functional vintage NPN silicon transistor from the documented TEC-marked group. The worn printing distinguishes this specimen physically while the exact historical interpretation of the 2N40235 marking remains pending verification.",
+    "history": "Accessioned individually from the same Jasper, Florida acquisition as OCS016–OCS018. Its worn markings and individual electrical characterization are preserved as part of its specimen-specific record.",
+    "image": "images/OCS019/OCS019-1.jpg",
+    "images": [
+      "images/OCS019/OCS019-1.jpg",
+      "images/OCS019/OCS019-2.jpg",
+      "images/OCS019/OCS019-3.jpg",
+      "images/OCS019/OCS019-4.jpg",
+      "images/OCS019/OCS019-5.jpg",
+      "images/OCS019/OCS019-6.jpg",
+      "images/OCS019/OCS019-7.jpg"
+    ]
+  },
+  {
+    "specimenId": "OCS-020",
+    "category": "transistor",
+    "name": "TEC 2N40235 NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor; 2N40235 identification pending verification",
+    "era": "Vintage; precise production date pending research",
+    "manufacturer": "TEC",
+    "markings": "TEC; 2N40235 interpretation pending verification",
+    "provenance": "eBay acquisition from seller Kmartage; 2026-07-22; Jasper, Florida. Detailed lot documentation retained in the collection archive.",
+    "condition": "Vintage used condition; bent leads; faded printing. Physically functional. Electrically verified.",
+    "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
+    "observation": "Electrical characterization confirms a functional NPN silicon transistor. The faded printing and bent leads distinguish this specimen within the documented TEC-marked group.",
+    "history": "Accessioned individually from the same Jasper, Florida acquisition as OCS016–OCS019. Its physical wear and individual electrical characterization are preserved as part of its specimen record.",
+    "image": "images/OCS020/OCS020-1.jpg",
+    "images": [
+      "images/OCS020/OCS020-1.jpg",
+      "images/OCS020/OCS020-2.jpg",
+      "images/OCS020/OCS020-3.jpg",
+      "images/OCS020/OCS020-4.jpg",
+      "images/OCS020/OCS020-5.jpg"
+    ]
+  },
+  {
+    "specimenId": "OCS-021",
+    "category": "transistor",
+    "name": "2N2222 NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor; 2N2222",
+    "era": "Vintage; precise production date pending research",
+    "manufacturer": "Unknown; pending identification",
+    "markings": "2N2222; manufacturer markings pending identification",
+    "provenance": "Acquisition provenance pending archival entry.",
+    "condition": "Worn and used condition; leads cut and bent. Physically functional. Electrically verified.",
+    "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
+    "observation": "A functional vintage 2N2222 NPN silicon transistor exhibiting evidence of prior use through its shortened and bent leads.",
+    "history": "Accessioned as the first specimen in a documented group of 2N2222 transistors preserved individually within the collection.",
+    "image": "images/OCS021/OCS021-1.jpg",
+    "images": [
+      "images/OCS021/OCS021-1.jpg",
+      "images/OCS021/OCS021-2.jpg",
+      "images/OCS021/OCS021-3.jpg",
+      "images/OCS021/OCS021-4.jpg",
+      "images/OCS021/OCS021-5.jpg"
+    ]
+  },
+  {
+    "specimenId": "OCS-022",
+    "category": "transistor",
+    "name": "2N2222 NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor; 2N2222",
+    "era": "Vintage; precise production date pending research",
+    "manufacturer": "Unknown; pending identification",
+    "markings": "2N2222; manufacturer markings pending identification",
+    "provenance": "Acquisition provenance pending archival entry.",
+    "condition": "Worn and used condition; cut and bent leads. Physically functional. Electrically verified.",
+    "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
+    "observation": "A functional vintage 2N2222 NPN silicon transistor preserved with visible evidence of prior use, including shortened and bent leads.",
+    "history": "Accessioned as the second specimen in the documented group of 2N2222 transistors preserved individually within the collection.",
+    "image": "images/OCS022/OCS022-1.jpg",
+    "images": [
+      "images/OCS022/OCS022-1.jpg",
+      "images/OCS022/OCS022-2.jpg",
+      "images/OCS022/OCS022-3.jpg",
+      "images/OCS022/OCS022-4.jpg",
+      "images/OCS022/OCS022-5.jpg"
+    ]
+  },
+  {
+    "specimenId": "OCS-023",
+    "category": "transistor",
+    "name": "2N2222 NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor; 2N2222",
+    "era": "Vintage; precise production date pending research",
+    "manufacturer": "Unknown; pending identification",
+    "markings": "2N2222; manufacturer markings pending identification",
+    "provenance": "Acquisition provenance pending archival entry.",
+    "condition": "Worn and used condition; bent and cut leads. Physically functional. Electrically verified.",
+    "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
+    "observation": "A functional vintage 2N2222 NPN silicon transistor preserved with visible evidence of prior use, including shortened and bent leads.",
+    "history": "Accessioned as the third specimen in the documented group of 2N2222 transistors preserved individually within the collection.",
+    "image": "images/OCS023/OCS023-1.jpg",
+    "images": [
+      "images/OCS023/OCS023-1.jpg",
+      "images/OCS023/OCS023-2.jpg",
+      "images/OCS023/OCS023-3.jpg",
+      "images/OCS023/OCS023-4.jpg",
+      "images/OCS023/OCS023-5.jpg"
+    ]
+  },
+  {
+    "specimenId": "OCS-024",
+    "category": "transistor",
+    "name": "2N2222 NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor; 2N2222",
+    "era": "Vintage; precise production date pending research",
+    "manufacturer": "Unknown; pending identification",
+    "markings": "2N2222; manufacturer markings pending identification",
+    "provenance": "Acquisition provenance pending archival entry.",
+    "condition": "Worn and used condition; cut and bent leads. Physically functional. Electrically verified.",
+    "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
+    "observation": "A functional vintage 2N2222 NPN silicon transistor preserved with visible evidence of prior use, including shortened and bent leads.",
+    "history": "Accessioned as the fourth specimen in the documented group of 2N2222 transistors preserved individually within the collection.",
+    "image": "images/OCS024/OCS024-1.jpg",
+    "images": [
+      "images/OCS024/OCS024-1.jpg",
+      "images/OCS024/OCS024-2.jpg",
+      "images/OCS024/OCS024-3.jpg",
+      "images/OCS024/OCS024-4.jpg",
+      "images/OCS024/OCS024-5.jpg"
+    ]
+  },
+  {
+    "specimenId": "OCS-025",
+    "category": "transistor",
+    "name": "2N2222 NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor; 2N2222",
+    "era": "Vintage; precise production date pending research",
+    "manufacturer": "Unknown; pending identification",
+    "markings": "2N2222; manufacturer markings pending identification",
+    "provenance": "Acquisition provenance pending archival entry.",
+    "condition": "Worn and used condition; leads cut and bent. Physically functional. Electrically verified.",
+    "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
+    "observation": "A functional vintage 2N2222 NPN silicon transistor preserved with visible evidence of prior use, including shortened and bent leads.",
+    "history": "Accessioned as the fifth specimen in the documented group of 2N2222 transistors preserved individually within the collection.",
+    "image": "images/OCS025/OCS025-1.jpg",
+    "images": [
       "images/OCS025/OCS025-1.jpg",
       "images/OCS025/OCS025-2.jpg",
       "images/OCS025/OCS025-3.jpg",
@@ -424,7 +602,8 @@
       "images/OCS026/OCS026-3.jpg",
       "images/OCS026/OCS026-4.jpg"
     ]
-  },  {
+  },
+  {
     "specimenId": "OCS-027",
     "category": "transistor",
     "name": "G.E.C. GET115R2 Germanium Transistor",
@@ -446,5 +625,357 @@
       "images/OCS027/OCS027-5.jpg",
       "images/OCS027/OCS027-6.jpg"
     ]
+  },
+  {
+    "specimenId": "OCS-028",
+    "category": "transistor",
+    "name": "GE-marked NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor",
+    "era": "Production date not established",
+    "manufacturer": "GE marking; manufacturer attribution pending confirmation",
+    "markings": "GE lettering visible; complete type designation not established.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Silver-colored metal can with three exposed leads, a locating tab, and surface wear. Atlas DCA55 recognized NPN silicon transistor; current electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas DCA55: NPN silicon transistor; hFE 90 @ Ic 2.50 mA; VBE 0.669 V @ IB 0.0276 mA; leakage current 0.000 mA. A displayed 0.000 mA is the recorded instrument result, not a claim of absolute zero leakage.",
+    "observation": "Complete part designation and manufacturer require curator confirmation.",
+    "history": "Accession identity retained as OCS028. Photographs and analyzer readings transcribed for the gallery from the corresponding Google Drive specimen folder. OCA linkage, storage location, and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS028/OCS028-1.jpg",
+    "images": [
+      "images/OCS028/OCS028-1.jpg",
+      "images/OCS028/OCS028-2.jpg",
+      "images/OCS028/OCS028-3.jpg",
+      "images/OCS028/OCS028-4.jpg",
+      "images/OCS028/OCS028-5.jpg",
+      "images/OCS028/OCS028-6.jpg",
+      "images/OCS028/OCS028-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS028",
+      "photoCount": 7,
+      "gain": 90,
+      "collectorCurrent_mA": "2.50",
+      "VBE_V": "0.669",
+      "IB_mA": "0.0276",
+      "leakage_mA": "0.000",
+      "analyzer": "Atlas DCA55"
+    }
+  },
+  {
+    "specimenId": "OCS-029",
+    "category": "transistor",
+    "name": "GE20-marked NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor",
+    "era": "Production date not established",
+    "manufacturer": "GE marking; manufacturer attribution pending confirmation",
+    "markings": "GE20 visible across the can; additional marking 212. Complete designation pending confirmation.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Silver-colored metal can with three bent leads and dark printed markings. Atlas DCA55 recognized NPN silicon transistor; current electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas DCA55: NPN silicon transistor; hFE 169 @ Ic 2.50 mA; VBE 0.666 V @ IB 0.0146 mA; leakage current 0.000 mA. A displayed 0.000 mA is the recorded instrument result, not a claim of absolute zero leakage.",
+    "observation": "GE20 is a visible marking transcription; it is not treated as a fully verified catalogue designation.",
+    "history": "Accession identity retained as OCS029. Photographs and analyzer readings transcribed for the gallery from the corresponding Google Drive specimen folder. OCA linkage, storage location, and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS029/OCS029-1.jpg",
+    "images": [
+      "images/OCS029/OCS029-1.jpg",
+      "images/OCS029/OCS029-2.jpg",
+      "images/OCS029/OCS029-3.jpg",
+      "images/OCS029/OCS029-4.jpg",
+      "images/OCS029/OCS029-5.jpg",
+      "images/OCS029/OCS029-6.jpg",
+      "images/OCS029/OCS029-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS029",
+      "photoCount": 7,
+      "gain": 169,
+      "collectorCurrent_mA": "2.50",
+      "VBE_V": "0.666",
+      "IB_mA": "0.0146",
+      "leakage_mA": "0.000",
+      "analyzer": "Atlas DCA55"
+    }
+  },
+  {
+    "specimenId": "OCS-030",
+    "category": "transistor",
+    "name": "GE20-marked NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor",
+    "era": "Production date not established",
+    "manufacturer": "GE marking; manufacturer attribution pending confirmation",
+    "markings": "GE20 visible across the can; additional marking 012. Complete designation pending confirmation.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Silver-colored metal can with three bent leads, a locating tab, and dark printed markings. Atlas DCA55 recognized NPN silicon transistor; current electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas DCA55: NPN silicon transistor; hFE 147 @ Ic 2.50 mA; VBE 0.661 V @ IB 0.0170 mA; leakage current 0.000 mA. A displayed 0.000 mA is the recorded instrument result, not a claim of absolute zero leakage.",
+    "observation": "GE20 is a visible marking transcription; it is not treated as a fully verified catalogue designation.",
+    "history": "Accession identity retained as OCS030. Photographs and analyzer readings transcribed for the gallery from the corresponding Google Drive specimen folder. OCA linkage, storage location, and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS030/OCS030-1.jpg",
+    "images": [
+      "images/OCS030/OCS030-1.jpg",
+      "images/OCS030/OCS030-2.jpg",
+      "images/OCS030/OCS030-3.jpg",
+      "images/OCS030/OCS030-4.jpg",
+      "images/OCS030/OCS030-5.jpg",
+      "images/OCS030/OCS030-6.jpg",
+      "images/OCS030/OCS030-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS030",
+      "photoCount": 7,
+      "gain": 147,
+      "collectorCurrent_mA": "2.50",
+      "VBE_V": "0.661",
+      "IB_mA": "0.0170",
+      "leakage_mA": "0.000",
+      "analyzer": "Atlas DCA55"
+    }
+  },
+  {
+    "specimenId": "OCS-031",
+    "category": "transistor",
+    "name": "100N1P NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor",
+    "era": "Production date not established",
+    "manufacturer": "Unknown; pending identification",
+    "markings": "100N1P; additional marking 012. 100N1P identification confirmed by the curator.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Silver-colored metal can with three exposed leads and surface wear. Atlas DCA55 recognized NPN silicon transistor; current electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas DCA55: NPN silicon transistor; hFE 30 @ Ic 2.50 mA; VBE 0.802 V @ IB 0.0820 mA; leakage current 0.000 mA. Diode protection between C-E reported. A displayed 0.000 mA is the recorded instrument result, not a claim of absolute zero leakage.",
+    "observation": "Atlas DCA55 also reports diode protection between C-E. The curator confirmed the 100N1P identification on October 2, 2026.",
+    "history": "Accession identity retained as OCS031. Photographs and analyzer readings transcribed for the gallery from the corresponding Google Drive specimen folder. OCA linkage, storage location, and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS031/OCS031-1.jpg",
+    "images": [
+      "images/OCS031/OCS031-1.jpg",
+      "images/OCS031/OCS031-2.jpg",
+      "images/OCS031/OCS031-3.jpg",
+      "images/OCS031/OCS031-4.jpg",
+      "images/OCS031/OCS031-5.jpg",
+      "images/OCS031/OCS031-6.jpg",
+      "images/OCS031/OCS031-7.jpg",
+      "images/OCS031/OCS031-8.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS031",
+      "photoCount": 8,
+      "gain": 30,
+      "collectorCurrent_mA": "2.50",
+      "VBE_V": "0.802",
+      "IB_mA": "0.0820",
+      "leakage_mA": "0.000",
+      "analyzer": "Atlas DCA55"
+    }
+  },
+  {
+    "specimenId": "OCS-032",
+    "category": "transistor",
+    "name": "2N5179 NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor",
+    "era": "Production date not established",
+    "manufacturer": "ST logo visible; exact manufacturer attribution pending confirmation",
+    "markings": "ST logo; 2N5179; additional marking 98805, retained without date interpretation.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Silver-colored metal can with three exposed leads, locating tab, and surface discoloration. Atlas DCA55 recognized NPN silicon transistor; current electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas DCA55: NPN silicon transistor; hFE 48 @ Ic 2.50 mA; VBE 0.777 V @ IB 0.0514 mA; leakage current 0.000 mA. A displayed 0.000 mA is the recorded instrument result, not a claim of absolute zero leakage.",
+    "observation": "One of three individually photographed 2N5179 specimens in this batch; each retains its own measurements.",
+    "history": "Accession identity retained as OCS032. Photographs and analyzer readings transcribed for the gallery from the corresponding Google Drive specimen folder. OCA linkage, storage location, and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS032/OCS032-1.jpg",
+    "images": [
+      "images/OCS032/OCS032-1.jpg",
+      "images/OCS032/OCS032-2.jpg",
+      "images/OCS032/OCS032-3.jpg",
+      "images/OCS032/OCS032-4.jpg",
+      "images/OCS032/OCS032-5.jpg",
+      "images/OCS032/OCS032-6.jpg",
+      "images/OCS032/OCS032-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS032",
+      "photoCount": 7,
+      "gain": 48,
+      "collectorCurrent_mA": "2.50",
+      "VBE_V": "0.777",
+      "IB_mA": "0.0514",
+      "leakage_mA": "0.000",
+      "analyzer": "Atlas DCA55"
+    }
+  },
+  {
+    "specimenId": "OCS-033",
+    "category": "transistor",
+    "name": "2N5179 NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor",
+    "era": "Production date not established",
+    "manufacturer": "ST logo visible; exact manufacturer attribution pending confirmation",
+    "markings": "ST logo; 2N5179; additional marking 98805, retained without date interpretation.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Silver-colored metal can with three exposed leads, locating tab, and surface discoloration. Atlas DCA55 recognized NPN silicon transistor; current electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas DCA55: NPN silicon transistor; hFE 67 @ Ic 2.50 mA; VBE 0.775 V @ IB 0.0377 mA; leakage current 0.000 mA. A displayed 0.000 mA is the recorded instrument result, not a claim of absolute zero leakage.",
+    "observation": "One of three individually photographed 2N5179 specimens in this batch; each retains its own measurements.",
+    "history": "Accession identity retained as OCS033. Photographs and analyzer readings transcribed for the gallery from the corresponding Google Drive specimen folder. OCA linkage, storage location, and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS033/OCS033-1.jpg",
+    "images": [
+      "images/OCS033/OCS033-1.jpg",
+      "images/OCS033/OCS033-2.jpg",
+      "images/OCS033/OCS033-3.jpg",
+      "images/OCS033/OCS033-4.jpg",
+      "images/OCS033/OCS033-5.jpg",
+      "images/OCS033/OCS033-6.jpg",
+      "images/OCS033/OCS033-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS033",
+      "photoCount": 7,
+      "gain": 67,
+      "collectorCurrent_mA": "2.50",
+      "VBE_V": "0.775",
+      "IB_mA": "0.0377",
+      "leakage_mA": "0.000",
+      "analyzer": "Atlas DCA55"
+    }
+  },
+  {
+    "specimenId": "OCS-034",
+    "category": "transistor",
+    "name": "2N5179 NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor",
+    "era": "Production date not established",
+    "manufacturer": "ST logo visible; exact manufacturer attribution pending confirmation",
+    "markings": "ST logo; 2N5179; additional marking 98805, retained without date interpretation.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Silver-colored metal can with three exposed leads, locating tab, and surface discoloration. Atlas DCA55 recognized NPN silicon transistor; current electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas DCA55: NPN silicon transistor; hFE 57 @ Ic 2.50 mA; VBE 0.773 V @ IB 0.0438 mA; leakage current 0.000 mA. A displayed 0.000 mA is the recorded instrument result, not a claim of absolute zero leakage.",
+    "observation": "One of three individually photographed 2N5179 specimens in this batch; each retains its own measurements.",
+    "history": "Accession identity retained as OCS034. Photographs and analyzer readings transcribed for the gallery from the corresponding Google Drive specimen folder. OCA linkage, storage location, and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS034/OCS034-1.jpg",
+    "images": [
+      "images/OCS034/OCS034-1.jpg",
+      "images/OCS034/OCS034-2.jpg",
+      "images/OCS034/OCS034-3.jpg",
+      "images/OCS034/OCS034-4.jpg",
+      "images/OCS034/OCS034-5.jpg",
+      "images/OCS034/OCS034-6.jpg",
+      "images/OCS034/OCS034-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS034",
+      "photoCount": 7,
+      "gain": 57,
+      "collectorCurrent_mA": "2.50",
+      "VBE_V": "0.773",
+      "IB_mA": "0.0438",
+      "leakage_mA": "0.000",
+      "analyzer": "Atlas DCA55"
+    }
+  },
+  {
+    "specimenId": "OCS-035",
+    "category": "transistor",
+    "name": "Teccor NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor",
+    "era": "Production date not established",
+    "manufacturer": "Teccor",
+    "markings": "Marking ending in T103; leading character unresolved. Additional marking T6208. Full designation pending confirmation.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Gold-colored metal can with three long leads and a groove visible on the top. Atlas DCA55 recognized NPN silicon transistor; current electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas DCA55: NPN silicon transistor; hFE 20 @ Ic 2.50 mA; VBE 0.702 V @ IB 0.124 mA; leakage current 0.000 mA. A displayed 0.000 mA is the recorded instrument result, not a claim of absolute zero leakage.",
+    "observation": "The curator confirmed Teccor as the manufacturer on October 2, 2026. Full part designation remains unresolved.",
+    "history": "Accession identity retained as OCS035. Photographs and analyzer readings transcribed for the gallery from the corresponding Google Drive specimen folder. OCA linkage, storage location, and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS035/OCS035-4.jpg",
+    "images": [
+      "images/OCS035/OCS035-1.jpg",
+      "images/OCS035/OCS035-2.jpg",
+      "images/OCS035/OCS035-3.jpg",
+      "images/OCS035/OCS035-4.jpg",
+      "images/OCS035/OCS035-5.jpg",
+      "images/OCS035/OCS035-6.jpg",
+      "images/OCS035/OCS035-7.jpg",
+      "images/OCS035/OCS035-8.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS035",
+      "photoCount": 8,
+      "gain": 20,
+      "collectorCurrent_mA": "2.50",
+      "VBE_V": "0.702",
+      "IB_mA": "0.124",
+      "leakage_mA": "0.000",
+      "analyzer": "Atlas DCA55"
+    }
+  },
+  {
+    "specimenId": "OCS-036",
+    "category": "transistor",
+    "name": "Teccor NPN Silicon Transistor",
+    "typeFamily": "NPN silicon transistor",
+    "era": "Production date not established",
+    "manufacturer": "Teccor",
+    "markings": "Marking ending in T103; leading character unresolved. Additional marking T6208. Full designation pending confirmation.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Gold-colored metal can with three long, bent leads and a groove visible on the top. Atlas DCA55 recognized NPN silicon transistor; current electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas DCA55: NPN silicon transistor; hFE 16 @ Ic 2.50 mA; VBE 0.713 V @ IB 0.151 mA; leakage current 0.000 mA. A displayed 0.000 mA is the recorded instrument result, not a claim of absolute zero leakage.",
+    "observation": "The curator confirmed Teccor as the manufacturer on October 2, 2026. Full part designation remains unresolved.",
+    "history": "Accession identity retained as OCS036. Photographs and analyzer readings transcribed for the gallery from the corresponding Google Drive specimen folder. OCA linkage, storage location, and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS036/OCS036-1.jpg",
+    "images": [
+      "images/OCS036/OCS036-1.jpg",
+      "images/OCS036/OCS036-2.jpg",
+      "images/OCS036/OCS036-3.jpg",
+      "images/OCS036/OCS036-4.jpg",
+      "images/OCS036/OCS036-5.jpg",
+      "images/OCS036/OCS036-6.jpg",
+      "images/OCS036/OCS036-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS036",
+      "photoCount": 7,
+      "gain": 16,
+      "collectorCurrent_mA": "2.50",
+      "VBE_V": "0.713",
+      "IB_mA": "0.151",
+      "leakage_mA": "0.000",
+      "analyzer": "Atlas DCA55"
+    }
+  },
+  {
+    "specimenId": "OCS-037",
+    "category": "transistor",
+    "name": "Siemens AC151 PNP Germanium Transistor",
+    "typeFamily": "PNP germanium transistor",
+    "era": "Production date not established",
+    "manufacturer": "Siemens",
+    "markings": "AC151, confirmed by the curator despite partially obscured can marking; V1-like marking; D5; Siemens emblem and red painted dot.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Tall silver-colored metal can with pronounced surface corrosion/discoloration, partly obscured markings, and short bent leads. Atlas DCA55 recognized PNP germanium transistor; current electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas DCA55: PNP germanium transistor; hFE 148 @ Ic 2.50 mA; VBE 0.147 V @ IB 0.0136 mA; leakage current 0.466 mA. A displayed 0.000 mA is the recorded instrument result, not a claim of absolute zero leakage.",
+    "observation": "The curator confirmed Siemens AC151 on October 2, 2026. The analyzer recognizes a PNP germanium transistor and records leakage of 0.466 mA. The reading alone is not used to assign failure or a circuit role.",
+    "history": "Accession identity retained as OCS037. Photographs and analyzer readings transcribed for the gallery from the corresponding Google Drive specimen folder. OCA linkage, storage location, and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS037/OCS037-1.jpg",
+    "images": [
+      "images/OCS037/OCS037-1.jpg",
+      "images/OCS037/OCS037-2.jpg",
+      "images/OCS037/OCS037-3.jpg",
+      "images/OCS037/OCS037-4.jpg",
+      "images/OCS037/OCS037-5.jpg",
+      "images/OCS037/OCS037-6.jpg",
+      "images/OCS037/OCS037-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS037",
+      "photoCount": 7,
+      "gain": 148,
+      "collectorCurrent_mA": "2.50",
+      "VBE_V": "0.147",
+      "IB_mA": "0.0136",
+      "leakage_mA": "0.466",
+      "analyzer": "Atlas DCA55"
+    }
   }
 ]
