@@ -439,7 +439,7 @@
     "condition": "Good vintage condition; good leads; printing shows age-related wear. Physically functional. Electrically verified.",
     "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
     "observation": "A functional vintage NPN silicon transistor from the documented TEC-marked group. The worn printing distinguishes this specimen physically while the exact historical interpretation of the 2N40235 marking remains pending verification.",
-    "history": "Accessioned individually from the same Jasper, Florida acquisition as OCS016\u2013OCS018. Its worn markings and individual electrical characterization are preserved as part of its specimen-specific record.",
+    "history": "Accessioned individually from the same Jasper, Florida acquisition as OCS016–OCS018. Its worn markings and individual electrical characterization are preserved as part of its specimen-specific record.",
     "image": "images/OCS019/OCS019-1.jpg",
     "images": [
       "images/OCS019/OCS019-1.jpg",
@@ -463,7 +463,7 @@
     "condition": "Vintage used condition; bent leads; faded printing. Physically functional. Electrically verified.",
     "characterization": "Atlas DCA55 electrical characterization retained in the specimen record.",
     "observation": "Electrical characterization confirms a functional NPN silicon transistor. The faded printing and bent leads distinguish this specimen within the documented TEC-marked group.",
-    "history": "Accessioned individually from the same Jasper, Florida acquisition as OCS016\u2013OCS019. Its physical wear and individual electrical characterization are preserved as part of its specimen record.",
+    "history": "Accessioned individually from the same Jasper, Florida acquisition as OCS016–OCS019. Its physical wear and individual electrical characterization are preserved as part of its specimen record.",
     "image": "images/OCS020/OCS020-1.jpg",
     "images": [
       "images/OCS020/OCS020-1.jpg",
@@ -587,7 +587,7 @@
     "category": "transistor",
     "name": "Sylvania ECG123 Replacement Transistor",
     "typeFamily": "NPN replacement semiconductor transistor",
-    "era": "Late 1960s\u20131970s",
+    "era": "Late 1960s–1970s",
     "manufacturer": "Sylvania ECG",
     "markings": "ECG123",
     "provenance": "Predates Archive; exact acquisition provenance unknown.",
@@ -1016,7 +1016,7 @@
   {
     "specimenId": "OCS-039",
     "category": "transistor",
-    "name": "Toshiba transistor \u2014 designation pending",
+    "name": "Toshiba transistor — designation pending",
     "typeFamily": "Transistor; type unconfirmed",
     "era": "Production date not established",
     "manufacturer": "Toshiba marking visible",
@@ -1159,7 +1159,7 @@
     "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
     "condition": "Silver-colored flanged can with pronounced mottled surface wear and short bent leads. Final electrical-condition classification and collection role require curator confirmation.",
     "characterization": "Atlas DCA55: NPN silicon transistor; hFE 185 @ Ic 2.50 mA; VBE 0.650 V @ IB 0.0135 mA; leakage current 0.000 mA. Displayed 0.000 mA is an instrument result, not a claim of absolute zero leakage.",
-    "observation": "Individually photographed specimen; readings retained separately from OCS040\u2013042.",
+    "observation": "Individually photographed specimen; readings retained separately from OCS040–042.",
     "history": "Accession identity retained as OCS043. Photographs and analyzer results transcribed from its Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
     "image": "images/OCS043/OCS043-1.jpg",
     "images": [
@@ -1222,7 +1222,7 @@
   {
     "specimenId": "OCS-045",
     "category": "transistor",
-    "name": "AC128-like transistor \u2014 confirmation pending",
+    "name": "AC128-like transistor — confirmation pending",
     "typeFamily": "Transistor; type unconfirmed",
     "era": "Production date not established",
     "manufacturer": "Unknown; pending identification",
@@ -1297,7 +1297,7 @@
     "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
     "condition": "Black rounded package with white lettering and three short gold-colored leads. Final electrical-condition classification and collection role require curator confirmation.",
     "characterization": "Atlas DCA55: NPN silicon transistor; hFE 66 @ Ic 2.50 mA; VBE 0.644 V @ IB 0.0372 mA; leakage current 0.000 mA. Displayed 0.000 mA is an instrument result, not a claim of absolute zero leakage.",
-    "observation": "Curator confirmed photo 8 was misnamed and corrected it to photo 7 in Drive. Website filenames follow the corrected 1\u20137 sequence.",
+    "observation": "Curator confirmed photo 8 was misnamed and corrected it to photo 7 in Drive. Website filenames follow the corrected 1–7 sequence.",
     "history": "Accession identity retained as OCS047. Photographs and analyzer results transcribed from its Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
     "image": "images/OCS047/OCS047-1.jpg",
     "images": [
@@ -1332,7 +1332,7 @@
     "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
     "condition": "Black rounded package with short leads, as visible in labeled Atlas photos. Final electrical-condition classification and collection role require curator confirmation.",
     "characterization": "Atlas DCA55 identifies NPN silicon transistor; hFE 150 @ Ic 2.50 mA; VBE 0.644 V @ IB 0.0167 mA; leakage current 0.000 mA. A displayed 0.000 mA is the instrument result, not a claim of absolute zero leakage.",
-    "observation": "Photos 1\u20133 are byte-identical to OCS047 photos 1\u20133. They remain preserved in this lot but are not independent identity evidence for OCS048. Atlas photos 4\u20137 are labeled OCS048; identity confirmation and replacement specimen-only photos requested.",
+    "observation": "Photos 1–3 are byte-identical to OCS047 photos 1–3. They remain preserved in this lot but are not independent identity evidence for OCS048. Atlas photos 4–7 are labeled OCS048; identity confirmation and replacement specimen-only photos requested.",
     "history": "Accession identity retained as OCS048. Photographs and analyzer results transcribed from the corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
     "image": "images/OCS048/OCS048-4.jpg",
     "images": [
@@ -1429,7 +1429,7 @@
   {
     "specimenId": "OCS-051",
     "category": "led",
-    "name": "Clear LED \u2014 identity pending",
+    "name": "Clear LED — identity pending",
     "typeFamily": "LED; electrical identity unconfirmed",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -1495,7 +1495,7 @@
   {
     "specimenId": "OCS-053",
     "category": "transistor",
-    "name": "GT-series transistor \u2014 designation pending",
+    "name": "GT-series transistor — designation pending",
     "typeFamily": "Transistor; type unconfirmed",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -1631,7 +1631,7 @@
   {
     "specimenId": "OCS-057",
     "category": "transistor",
-    "name": "TI-emblem PNP Germanium Transistor \u2014 designation pending",
+    "name": "TI-emblem PNP Germanium Transistor — designation pending",
     "typeFamily": "PNP germanium",
     "era": "Production date not established",
     "manufacturer": "Texas Instruments emblem visible",
@@ -1665,7 +1665,7 @@
   {
     "specimenId": "OCS-058",
     "category": "transistor",
-    "name": "GE-marked 2939-series component \u2014 identity pending",
+    "name": "GE-marked 2939-series component — identity pending",
     "typeFamily": "Component type unconfirmed",
     "era": "Production date not established",
     "manufacturer": "GE marking visible",
@@ -1697,7 +1697,7 @@
   {
     "specimenId": "OCS-059",
     "category": "transistor",
-    "name": "GE-marked 2939-series component \u2014 identity pending",
+    "name": "GE-marked 2939-series component — identity pending",
     "typeFamily": "Component type unconfirmed",
     "era": "Production date not established",
     "manufacturer": "GE marking visible",
@@ -2008,7 +2008,7 @@
   {
     "specimenId": "OCS-068",
     "category": "transistor",
-    "name": "2N521A-marked specimen \u2014 diode-junction result",
+    "name": "2N521A-marked specimen — diode-junction result",
     "typeFamily": "Transistor-marked specimen; diode junction detected",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -2222,7 +2222,7 @@
   {
     "specimenId": "OCS-074",
     "category": "transistor",
-    "name": "Unidentified metal-can specimen \u2014 short-circuit result",
+    "name": "Unidentified metal-can specimen — short-circuit result",
     "typeFamily": "Component type unconfirmed",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -2262,7 +2262,7 @@
     "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
     "condition": "Black flat-sided package with orange top mark, blue side dot and short bent leads. Final electrical-condition classification and collection role require curator confirmation.",
     "characterization": "Atlas DCA55 identifies NPN silicon transistor; hFE 398 @ Ic 2.50 mA; VBE 0.598 V @ IB 0.0062 mA; leakage current 0.000 mA. A displayed 0.000 mA is the recorded instrument result, not a claim of absolute zero leakage.",
-    "observation": "Two specimen-only views supplied, followed by four analyzer screens; complete numbered sequence 1\u20136 retained.",
+    "observation": "Two specimen-only views supplied, followed by four analyzer screens; complete numbered sequence 1–6 retained.",
     "history": "Accession identity retained as OCS075. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
     "image": "images/OCS075/OCS075-1.jpg",
     "images": [
@@ -2401,7 +2401,7 @@
     "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
     "condition": "Silver-colored metal can photographed while connected to analyzer clips. Final electrical-condition classification and collection role require curator confirmation.",
     "characterization": "Atlas DCA55 identifies PNP silicon transistor; hFE 102 @ Ic 2.50 mA; VBE 0.661 V @ IB 0.0244 mA; leakage current 0.000 mA. A displayed 0.000 mA is the recorded instrument result, not a claim of absolute zero leakage.",
-    "observation": "Only photos 4\u20137 supplied. Curator confirmed specimen-only views 1\u20133 were not taken and will be added later; original numbering retained.",
+    "observation": "Only photos 4–7 supplied. Curator confirmed specimen-only views 1–3 were not taken and will be added later; original numbering retained.",
     "history": "Accession identity retained as OCS079. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
     "image": "images/OCS079/OCS079-4.jpg",
     "images": [
@@ -2911,7 +2911,7 @@
   {
     "specimenId": "OCS-094",
     "category": "transistor",
-    "name": "42001-marked specimen \u2014 short-circuit result",
+    "name": "42001-marked specimen — short-circuit result",
     "typeFamily": "Component type unconfirmed",
     "era": "Production date not established",
     "manufacturer": "Unknown; emblem unresolved",
@@ -2942,7 +2942,7 @@
   {
     "specimenId": "OCS-095",
     "category": "transistor",
-    "name": "42001-marked specimen \u2014 diode-network result",
+    "name": "42001-marked specimen — diode-network result",
     "typeFamily": "Common-anode diode network detected",
     "era": "Production date not established",
     "manufacturer": "Unknown; emblem unresolved",
@@ -2981,7 +2981,7 @@
   {
     "specimenId": "OCS-096",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3016,7 +3016,7 @@
   {
     "specimenId": "OCS-097",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3051,7 +3051,7 @@
   {
     "specimenId": "OCS-098",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3086,7 +3086,7 @@
   {
     "specimenId": "OCS-099",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3121,7 +3121,7 @@
   {
     "specimenId": "OCS-100",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3154,7 +3154,7 @@
   {
     "specimenId": "OCS-101",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3189,7 +3189,7 @@
   {
     "specimenId": "OCS-102",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3224,7 +3224,7 @@
   {
     "specimenId": "OCS-103",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3259,7 +3259,7 @@
   {
     "specimenId": "OCS-104",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3294,7 +3294,7 @@
   {
     "specimenId": "OCS-105",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3329,7 +3329,7 @@
   {
     "specimenId": "OCS-106",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3364,7 +3364,7 @@
   {
     "specimenId": "OCS-107",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3399,7 +3399,7 @@
   {
     "specimenId": "OCS-108",
     "category": "transistor",
-    "name": "Unidentified metal-can specimen \u2014 short-circuit result",
+    "name": "Unidentified metal-can specimen — short-circuit result",
     "typeFamily": "Component type unconfirmed",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3431,7 +3431,7 @@
   {
     "specimenId": "OCS-109",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3466,7 +3466,7 @@
   {
     "specimenId": "OCS-110",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3501,7 +3501,7 @@
   {
     "specimenId": "OCS-111",
     "category": "transistor",
-    "name": "Unidentified NPN Darlington \u2014 metal can",
+    "name": "Unidentified NPN Darlington — metal can",
     "typeFamily": "NPN Darlington",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3535,7 +3535,7 @@
   {
     "specimenId": "OCS-112",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3575,7 +3575,7 @@
   {
     "specimenId": "OCS-113",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3610,7 +3610,7 @@
   {
     "specimenId": "OCS-114",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3645,7 +3645,7 @@
   {
     "specimenId": "OCS-115",
     "category": "transistor",
-    "name": "Unidentified NPN Silicon Transistor \u2014 metal can",
+    "name": "Unidentified NPN Silicon Transistor — metal can",
     "typeFamily": "NPN silicon",
     "era": "Production date not established",
     "manufacturer": "Unknown",
@@ -3745,6 +3745,836 @@
       "VBE_V": "0.240",
       "IB_mA": "0.0349",
       "leakage_mA": "0.682"
+    }
+  },
+  {
+    "specimenId": "OCS-118",
+    "category": "transistor",
+    "name": "NEC ST303 PNP Germanium Transistor",
+    "typeFamily": "PNP germanium",
+    "era": "Production date not established",
+    "manufacturer": "NEC",
+    "markings": "ST303; NEC; 89.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Black flattened package with flange and three long bent leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas DCA55 identifies PNP germanium transistor; hFE 95 @ Ic 2.50 mA; VBE 0.216 V @ IB 0.0255 mA; leakage current 0.051 mA.",
+    "observation": "Photographed analyzer readings preserved; no final viability or collection role inferred from gain or leakage alone.",
+    "history": "Accession identity retained as OCS118. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS118/OCS118-1.jpg",
+    "images": [
+      "images/OCS118/OCS118-1.jpg",
+      "images/OCS118/OCS118-2.jpg",
+      "images/OCS118/OCS118-3.jpg",
+      "images/OCS118/OCS118-4.jpg",
+      "images/OCS118/OCS118-5.jpg",
+      "images/OCS118/OCS118-6.jpg",
+      "images/OCS118/OCS118-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS118",
+      "photoCount": 7,
+      "analyzer": "Atlas DCA55",
+      "gain": 95,
+      "collectorCurrent_mA": "2.50",
+      "VBE_V": "0.216",
+      "IB_mA": "0.0255",
+      "leakage_mA": "0.051",
+      "photoNaming": [
+        {
+          "original": "IMG_5788.JPG",
+          "website": "images/OCS118/OCS118-1.jpg"
+        },
+        {
+          "original": "IMG_5789.JPG",
+          "website": "images/OCS118/OCS118-2.jpg"
+        },
+        {
+          "original": "IMG_5790.JPG",
+          "website": "images/OCS118/OCS118-3.jpg"
+        },
+        {
+          "original": "IMG_5791.JPG",
+          "website": "images/OCS118/OCS118-4.jpg"
+        },
+        {
+          "original": "IMG_5792.JPG",
+          "website": "images/OCS118/OCS118-5.jpg"
+        },
+        {
+          "original": "IMG_5793.JPG",
+          "website": "images/OCS118/OCS118-6.jpg"
+        },
+        {
+          "original": "IMG_5794.JPG",
+          "website": "images/OCS118/OCS118-7.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "specimenId": "OCS-119",
+    "category": "transistor",
+    "name": "NEC ST343 Transistor — No Component Detected",
+    "typeFamily": "Transistor; polarity/material not established by photographed test",
+    "era": "Production date not established",
+    "manufacturer": "NEC",
+    "markings": "ST343; diamond NEC logo; 97.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Black rounded package with flange and three short bent leads. Electrical condition: Dead, confirmed by curator. Collection role and storage location remain pending curator entry.",
+    "characterization": "Atlas DCA55 displays “No component detected.” No gain, junction voltage or leakage reading is provided in the photographed test.",
+    "observation": "Atlas DCA55 non-detection preserved as a photographed observation. Curator subsequently confirmed electrical condition as Dead.",
+    "history": "Accession identity retained as OCS119. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not. Curator confirmed electrical condition as Dead on 2026-10-06; specimen identity and original test evidence retained.",
+    "image": "images/OCS119/OCS119-1.jpg",
+    "images": [
+      "images/OCS119/OCS119-1.jpg",
+      "images/OCS119/OCS119-2.jpg",
+      "images/OCS119/OCS119-3.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS119",
+      "photoCount": 3,
+      "analyzer": "Atlas DCA55",
+      "gain": null,
+      "collectorCurrent_mA": null,
+      "VBE_V": null,
+      "IB_mA": null,
+      "leakage_mA": null,
+      "photoNaming": [
+        {
+          "original": "IMG_5795.JPG",
+          "website": "images/OCS119/OCS119-1.jpg"
+        },
+        {
+          "original": "IMG_5796.JPG",
+          "website": "images/OCS119/OCS119-2.jpg"
+        },
+        {
+          "original": "IMG_5797.JPG",
+          "website": "images/OCS119/OCS119-3.jpg"
+        }
+      ]
+    },
+    "electricalCondition": "Dead"
+  },
+  {
+    "specimenId": "OCS-120",
+    "category": "transistor",
+    "name": "Matsushita 2SB178 PNP Germanium Transistor",
+    "typeFamily": "PNP germanium",
+    "era": "Production date not established",
+    "manufacturer": "Matsushita",
+    "markings": "2SB178; MATSUSHITA; auxiliary 9-like mark and red dot.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Elongated silver cylindrical package with worn lettering, surface discoloration and three short leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas DCA55 identifies PNP germanium transistor; hFE 176 @ Ic 2.50 mA; VBE 0.128 V @ IB 0.0100 mA; leakage current 0.714 mA.",
+    "observation": "Photographed analyzer readings preserved; no final viability or collection role inferred from gain or leakage alone.",
+    "history": "Accession identity retained as OCS120. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS120/OCS120-1.jpg",
+    "images": [
+      "images/OCS120/OCS120-1.jpg",
+      "images/OCS120/OCS120-2.jpg",
+      "images/OCS120/OCS120-3.jpg",
+      "images/OCS120/OCS120-4.jpg",
+      "images/OCS120/OCS120-5.jpg",
+      "images/OCS120/OCS120-6.jpg",
+      "images/OCS120/OCS120-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS120",
+      "photoCount": 7,
+      "analyzer": "Atlas DCA55",
+      "gain": 176,
+      "collectorCurrent_mA": "2.50",
+      "VBE_V": "0.128",
+      "IB_mA": "0.0100",
+      "leakage_mA": "0.714",
+      "photoNaming": [
+        {
+          "original": "IMG_5798.JPG",
+          "website": "images/OCS120/OCS120-1.jpg"
+        },
+        {
+          "original": "IMG_5799.JPG",
+          "website": "images/OCS120/OCS120-2.jpg"
+        },
+        {
+          "original": "IMG_5800.JPG",
+          "website": "images/OCS120/OCS120-3.jpg"
+        },
+        {
+          "original": "IMG_5801.JPG",
+          "website": "images/OCS120/OCS120-4.jpg"
+        },
+        {
+          "original": "IMG_5802.JPG",
+          "website": "images/OCS120/OCS120-5.jpg"
+        },
+        {
+          "original": "IMG_5803.JPG",
+          "website": "images/OCS120/OCS120-6.jpg"
+        },
+        {
+          "original": "IMG_5804.JPG",
+          "website": "images/OCS120/OCS120-7.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "specimenId": "OCS-121",
+    "category": "capacitor",
+    "name": "Sprague Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Sprague",
+    "markings": "SPRAGUE; .001 MFD.; 600 V.D.C.; yellow band/block markings.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Black cylindrical axial package with yellow lettering, worn spots and bent leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 1.651 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS121. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS121/OCS121-1.jpg",
+    "images": [
+      "images/OCS121/OCS121-1.jpg",
+      "images/OCS121/OCS121-2.jpg",
+      "images/OCS121/OCS121-3.jpg",
+      "images/OCS121/OCS121-4.jpg",
+      "images/OCS121/OCS121-5.jpg",
+      "images/OCS121/OCS121-6.jpg",
+      "images/OCS121/OCS121-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS121",
+      "photoCount": 7,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "1.651",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS121-1.jpg",
+          "website": "images/OCS121/OCS121-1.jpg"
+        },
+        {
+          "original": "OCS121-2.jpg",
+          "website": "images/OCS121/OCS121-2.jpg"
+        },
+        {
+          "original": "OCS121-3.jpg",
+          "website": "images/OCS121/OCS121-3.jpg"
+        },
+        {
+          "original": "OCS121-4.jpg",
+          "website": "images/OCS121/OCS121-4.jpg"
+        },
+        {
+          "original": "OCS121-5.jpg",
+          "website": "images/OCS121/OCS121-5.jpg"
+        },
+        {
+          "original": "OCS121-6.jpg",
+          "website": "images/OCS121/OCS121-6.jpg"
+        },
+        {
+          "original": "OCS121-7.jpg",
+          "website": "images/OCS121/OCS121-7.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.001,
+      "voltageMarked": 600
+    }
+  },
+  {
+    "specimenId": "OCS-122",
+    "category": "capacitor",
+    "name": "Astron Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Astron",
+    "markings": "ASTRON; .001 MF; 600 VDC; MADE IN U.S.A.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Yellow rounded axial package with green lettering, scuffs and surface discoloration. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 1.349 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS122. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS122/OCS122-1.jpg",
+    "images": [
+      "images/OCS122/OCS122-1.jpg",
+      "images/OCS122/OCS122-2.jpg",
+      "images/OCS122/OCS122-3.jpg",
+      "images/OCS122/OCS122-4.jpg",
+      "images/OCS122/OCS122-5.jpg",
+      "images/OCS122/OCS122-6.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS122",
+      "photoCount": 6,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "1.349",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS122-1.jpg",
+          "website": "images/OCS122/OCS122-1.jpg"
+        },
+        {
+          "original": "OCS122-2.jpg",
+          "website": "images/OCS122/OCS122-2.jpg"
+        },
+        {
+          "original": "OCS122-3.jpg",
+          "website": "images/OCS122/OCS122-3.jpg"
+        },
+        {
+          "original": "OCS122-4.jpg",
+          "website": "images/OCS122/OCS122-4.jpg"
+        },
+        {
+          "original": "OCS122-5.jpg",
+          "website": "images/OCS122/OCS122-5.jpg"
+        },
+        {
+          "original": "OCS122-6.jpg",
+          "website": "images/OCS122/OCS122-6.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.001,
+      "voltageMarked": 600
+    }
+  },
+  {
+    "specimenId": "OCS-123",
+    "category": "capacitor",
+    "name": "Unidentified Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Not established",
+    "markings": "Colored bands on black body; manufacturer, nominal value and voltage not confirmed.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Black cylindrical axial package with colored bands, worn surface and short bent leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 1.476 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS123. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS123/OCS123-1.jpg",
+    "images": [
+      "images/OCS123/OCS123-1.jpg",
+      "images/OCS123/OCS123-2.jpg",
+      "images/OCS123/OCS123-3.jpg",
+      "images/OCS123/OCS123-4.jpg",
+      "images/OCS123/OCS123-5.jpg",
+      "images/OCS123/OCS123-6.jpg",
+      "images/OCS123/OCS123-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS123",
+      "photoCount": 7,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "1.476",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS123-1.jpg",
+          "website": "images/OCS123/OCS123-1.jpg"
+        },
+        {
+          "original": "OCS123-2.jpg",
+          "website": "images/OCS123/OCS123-2.jpg"
+        },
+        {
+          "original": "OCS123-3.jpg",
+          "website": "images/OCS123/OCS123-3.jpg"
+        },
+        {
+          "original": "OCS123-4.jpg",
+          "website": "images/OCS123/OCS123-4.jpg"
+        },
+        {
+          "original": "OCS123-5.jpg",
+          "website": "images/OCS123/OCS123-5.jpg"
+        },
+        {
+          "original": "OCS123-6.jpg",
+          "website": "images/OCS123/OCS123-6.jpg"
+        },
+        {
+          "original": "OCS123-7.jpg",
+          "website": "images/OCS123/OCS123-7.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "specimenId": "OCS-124",
+    "category": "capacitor",
+    "name": "Mallory Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Mallory",
+    "markings": "MALLORY; .0015 ±10%; 1000 VDC; GEM 10215; USA 406.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Dark brown axial cylinder with white lettering, scuffing and bent leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 1.499 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS124. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS124/OCS124-1.jpg",
+    "images": [
+      "images/OCS124/OCS124-1.jpg",
+      "images/OCS124/OCS124-2.jpg",
+      "images/OCS124/OCS124-3.jpg",
+      "images/OCS124/OCS124-4.jpg",
+      "images/OCS124/OCS124-5.jpg",
+      "images/OCS124/OCS124-6.jpg",
+      "images/OCS124/OCS124-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS124",
+      "photoCount": 7,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "1.499",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS124-1.jpg",
+          "website": "images/OCS124/OCS124-1.jpg"
+        },
+        {
+          "original": "OCS124-2.jpg",
+          "website": "images/OCS124/OCS124-2.jpg"
+        },
+        {
+          "original": "OCS124-3.jpg",
+          "website": "images/OCS124/OCS124-3.jpg"
+        },
+        {
+          "original": "OCS124-4.jpg",
+          "website": "images/OCS124/OCS124-4.jpg"
+        },
+        {
+          "original": "OCS124-5.jpg",
+          "website": "images/OCS124/OCS124-5.jpg"
+        },
+        {
+          "original": "OCS124-6.jpg",
+          "website": "images/OCS124/OCS124-6.jpg"
+        },
+        {
+          "original": "OCS124-7.jpg",
+          "website": "images/OCS124/OCS124-7.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.0015,
+      "voltageMarked": 1000
+    }
+  },
+  {
+    "specimenId": "OCS-125",
+    "category": "capacitor",
+    "name": "Unidentified Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Not established",
+    "markings": "Colored bands on black body; manufacturer, nominal value and voltage not confirmed.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Black cylindrical axial package with colored bands and bent leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 1.263 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS125. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS125/OCS125-1.jpg",
+    "images": [
+      "images/OCS125/OCS125-1.jpg",
+      "images/OCS125/OCS125-2.jpg",
+      "images/OCS125/OCS125-3.jpg",
+      "images/OCS125/OCS125-4.jpg",
+      "images/OCS125/OCS125-5.jpg",
+      "images/OCS125/OCS125-6.jpg",
+      "images/OCS125/OCS125-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS125",
+      "photoCount": 7,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "1.263",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS125-1.jpg",
+          "website": "images/OCS125/OCS125-1.jpg"
+        },
+        {
+          "original": "OCS125-2.jpg",
+          "website": "images/OCS125/OCS125-2.jpg"
+        },
+        {
+          "original": "OCS125-3.jpg",
+          "website": "images/OCS125/OCS125-3.jpg"
+        },
+        {
+          "original": "OCS125-4.jpg",
+          "website": "images/OCS125/OCS125-4.jpg"
+        },
+        {
+          "original": "OCS125-5.jpg",
+          "website": "images/OCS125/OCS125-5.jpg"
+        },
+        {
+          "original": "OCS125-6.jpg",
+          "website": "images/OCS125/OCS125-6.jpg"
+        },
+        {
+          "original": "OCS125-7.jpg",
+          "website": "images/OCS125/OCS125-7.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "specimenId": "OCS-126",
+    "category": "capacitor",
+    "name": "Sprague Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Sprague",
+    "markings": "SPRAGUE; .001 MFD.; 600 V.D.C.; yellow band/block markings.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Black axial cylinder with yellow lettering, worn surface and bent leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 1.466 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS126. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS126/OCS126-1.jpg",
+    "images": [
+      "images/OCS126/OCS126-1.jpg",
+      "images/OCS126/OCS126-2.jpg",
+      "images/OCS126/OCS126-3.jpg",
+      "images/OCS126/OCS126-4.jpg",
+      "images/OCS126/OCS126-5.jpg",
+      "images/OCS126/OCS126-6.jpg",
+      "images/OCS126/OCS126-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS126",
+      "photoCount": 7,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "1.466",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS126-1.jpg",
+          "website": "images/OCS126/OCS126-1.jpg"
+        },
+        {
+          "original": "OCS126-2.jpg",
+          "website": "images/OCS126/OCS126-2.jpg"
+        },
+        {
+          "original": "OCS126-3.jpg",
+          "website": "images/OCS126/OCS126-3.jpg"
+        },
+        {
+          "original": "OCS126-4.jpg",
+          "website": "images/OCS126/OCS126-4.jpg"
+        },
+        {
+          "original": "OCS126-5.jpg",
+          "website": "images/OCS126/OCS126-5.jpg"
+        },
+        {
+          "original": "OCS126-6.jpg",
+          "website": "images/OCS126/OCS126-6.jpg"
+        },
+        {
+          "original": "OCS126-7.jpg",
+          "website": "images/OCS126/OCS126-7.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.001,
+      "voltageMarked": 600
+    }
+  },
+  {
+    "specimenId": "OCS-127",
+    "category": "capacitor",
+    "name": "Unidentified Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Not established",
+    "markings": "JAN; 7139A; additional small lettering partially legible; identity and marked rating unresolved.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Small silver metal axial cylinder with dark printing and long bent leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 1.049 µF at 1 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS127. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS127/OCS127-1.jpg",
+    "images": [
+      "images/OCS127/OCS127-1.jpg",
+      "images/OCS127/OCS127-2.jpg",
+      "images/OCS127/OCS127-3.jpg",
+      "images/OCS127/OCS127-4.jpg",
+      "images/OCS127/OCS127-5.jpg",
+      "images/OCS127/OCS127-6.jpg",
+      "images/OCS127/OCS127-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS127",
+      "photoCount": 7,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "1.049",
+        "unit": "µF",
+        "frequency": "1 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS127-1.jpg",
+          "website": "images/OCS127/OCS127-1.jpg"
+        },
+        {
+          "original": "OCS127-2.jpg",
+          "website": "images/OCS127/OCS127-2.jpg"
+        },
+        {
+          "original": "OCS127-3.jpg",
+          "website": "images/OCS127/OCS127-3.jpg"
+        },
+        {
+          "original": "OCS127-4.jpg",
+          "website": "images/OCS127/OCS127-4.jpg"
+        },
+        {
+          "original": "OCS127-5.jpg",
+          "website": "images/OCS127/OCS127-5.jpg"
+        },
+        {
+          "original": "OCS127-6.jpg",
+          "website": "images/OCS127/OCS127-6.jpg"
+        },
+        {
+          "original": "OCS127-7.jpg",
+          "website": "images/OCS127/OCS127-7.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "specimenId": "OCS-128",
+    "category": "capacitor",
+    "name": "Sprague Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Sprague",
+    "markings": "SPRAGUE; .0022 MFD.; 200 VDC.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Long black cylindrical package with two leads exiting the same end and yellow lettering. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 2.742 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS128. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS128/OCS128-1.jpg",
+    "images": [
+      "images/OCS128/OCS128-1.jpg",
+      "images/OCS128/OCS128-2.jpg",
+      "images/OCS128/OCS128-3.jpg",
+      "images/OCS128/OCS128-4.jpg",
+      "images/OCS128/OCS128-5.jpg",
+      "images/OCS128/OCS128-6.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS128",
+      "photoCount": 6,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "2.742",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS128-1.jpg",
+          "website": "images/OCS128/OCS128-1.jpg"
+        },
+        {
+          "original": "OCS128-2.jpg",
+          "website": "images/OCS128/OCS128-2.jpg"
+        },
+        {
+          "original": "OCS128-3.jpg",
+          "website": "images/OCS128/OCS128-3.jpg"
+        },
+        {
+          "original": "OCS128-4.jpg",
+          "website": "images/OCS128/OCS128-4.jpg"
+        },
+        {
+          "original": "OCS128-5.jpg",
+          "website": "images/OCS128/OCS128-5.jpg"
+        },
+        {
+          "original": "OCS128-6.jpg",
+          "website": "images/OCS128/OCS128-6.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.0022,
+      "voltageMarked": 200
+    }
+  },
+  {
+    "specimenId": "OCS-129",
+    "category": "capacitor",
+    "name": "Philco Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Philco",
+    "markings": "PHILCO; T.M. REG.; 30-4671-88; .0022 MFD.; 1000 V.D.C.; 164.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Pale paper-wrapped axial cylinder with staining and dark end sealing material. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 2.892 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS129. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS129/OCS129-1.jpg",
+    "images": [
+      "images/OCS129/OCS129-1.jpg",
+      "images/OCS129/OCS129-2.jpg",
+      "images/OCS129/OCS129-3.jpg",
+      "images/OCS129/OCS129-4.jpg",
+      "images/OCS129/OCS129-5.jpg",
+      "images/OCS129/OCS129-6.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS129",
+      "photoCount": 6,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "2.892",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS129-1.jpg",
+          "website": "images/OCS129/OCS129-1.jpg"
+        },
+        {
+          "original": "OCS129-2.jpg",
+          "website": "images/OCS129/OCS129-2.jpg"
+        },
+        {
+          "original": "OCS129-3.jpg",
+          "website": "images/OCS129/OCS129-3.jpg"
+        },
+        {
+          "original": "OCS129-4.jpg",
+          "website": "images/OCS129/OCS129-4.jpg"
+        },
+        {
+          "original": "OCS129-5.jpg",
+          "website": "images/OCS129/OCS129-5.jpg"
+        },
+        {
+          "original": "OCS129-6.jpg",
+          "website": "images/OCS129/OCS129-6.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.0022,
+      "voltageMarked": 1000
+    }
+  },
+  {
+    "specimenId": "OCS-130",
+    "category": "capacitor",
+    "name": "Unidentified Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Not established",
+    "markings": "22000 pF; ±10%; 125V DC symbol; auxiliary 011-like marking.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Yellow elongated axial package with scuffed surface and bent leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 22.83 nF at 1 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS130. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS130/OCS130-1.jpg",
+    "images": [
+      "images/OCS130/OCS130-1.jpg",
+      "images/OCS130/OCS130-2.jpg",
+      "images/OCS130/OCS130-3.jpg",
+      "images/OCS130/OCS130-4.jpg",
+      "images/OCS130/OCS130-5.jpg",
+      "images/OCS130/OCS130-6.jpg",
+      "images/OCS130/OCS130-7.jpg",
+      "images/OCS130/OCS130-8.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS130",
+      "photoCount": 8,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "22.83",
+        "unit": "nF",
+        "frequency": "1 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS130-1.jpg",
+          "website": "images/OCS130/OCS130-1.jpg"
+        },
+        {
+          "original": "OCS130-2.jpg",
+          "website": "images/OCS130/OCS130-2.jpg"
+        },
+        {
+          "original": "OCS130-3.jpg",
+          "website": "images/OCS130/OCS130-3.jpg"
+        },
+        {
+          "original": "OCS130-4.jpg",
+          "website": "images/OCS130/OCS130-4.jpg"
+        },
+        {
+          "original": "OCS130-5.jpg",
+          "website": "images/OCS130/OCS130-5.jpg"
+        },
+        {
+          "original": "OCS130-6.jpg",
+          "website": "images/OCS130/OCS130-6.jpg"
+        },
+        {
+          "original": "OCS130-7.jpg",
+          "website": "images/OCS130/OCS130-7.jpg"
+        },
+        {
+          "original": "OCS130-8.jpg",
+          "website": "images/OCS130/OCS130-8.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.022,
+      "voltageMarked": 125
     }
   }
 ]
