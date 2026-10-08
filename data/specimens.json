@@ -5203,5 +5203,905 @@
       "nominalCapacitance_uF": 0.0022,
       "voltageMarked": 1000
     }
+  },
+  {
+    "specimenId": "OCS-141",
+    "category": "capacitor",
+    "name": "West-Cap Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "West-Cap",
+    "markings": "CP05A1; KF222K; .0022 MFD; 600 VDC; 96733-6614",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Silver metal axial cylinder with amber end residue and surface discoloration. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 2.172 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS141. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS141/OCS141-1.jpg",
+    "images": [
+      "images/OCS141/OCS141-1.jpg",
+      "images/OCS141/OCS141-2.jpg",
+      "images/OCS141/OCS141-3.jpg",
+      "images/OCS141/OCS141-4.jpg",
+      "images/OCS141/OCS141-5.jpg",
+      "images/OCS141/OCS141-6.jpg",
+      "images/OCS141/OCS141-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS141",
+      "photoCount": 7,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "2.172",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS141-1.jpg",
+          "website": "images/OCS141/OCS141-1.jpg"
+        },
+        {
+          "original": "OCS141-2.jpg",
+          "website": "images/OCS141/OCS141-2.jpg"
+        },
+        {
+          "original": "OCS141-3.jpg",
+          "website": "images/OCS141/OCS141-3.jpg"
+        },
+        {
+          "original": "OCS141-4.jpg",
+          "website": "images/OCS141/OCS141-4.jpg"
+        },
+        {
+          "original": "OCS141-5.jpg",
+          "website": "images/OCS141/OCS141-5.jpg"
+        },
+        {
+          "original": "OCS141-6.jpg",
+          "website": "images/OCS141/OCS141-6.jpg"
+        },
+        {
+          "original": "OCS141-7.jpg",
+          "website": "images/OCS141/OCS141-7.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.0022,
+      "voltageMarked": 600
+    }
+  },
+  {
+    "specimenId": "OCS-142",
+    "category": "capacitor",
+    "name": "Unidentified Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Not established",
+    "markings": "2.2nF ±10%; 400V~; circular logo",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Dark brown rounded axial package with white lettering and bent leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 2.779 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS142. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS142/OCS142-1.jpg",
+    "images": [
+      "images/OCS142/OCS142-1.jpg",
+      "images/OCS142/OCS142-2.jpg",
+      "images/OCS142/OCS142-3.jpg",
+      "images/OCS142/OCS142-4.jpg",
+      "images/OCS142/OCS142-5.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS142",
+      "photoCount": 5,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "2.779",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS142-1.jpg",
+          "website": "images/OCS142/OCS142-1.jpg"
+        },
+        {
+          "original": "OCS142-2.jpg",
+          "website": "images/OCS142/OCS142-2.jpg"
+        },
+        {
+          "original": "OCS142-3.jpg",
+          "website": "images/OCS142/OCS142-3.jpg"
+        },
+        {
+          "original": "OCS142-4.jpg",
+          "website": "images/OCS142/OCS142-4.jpg"
+        },
+        {
+          "original": "OCS142-5.jpg",
+          "website": "images/OCS142/OCS142-5.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.0022,
+      "voltageMarked": 400
+    }
+  },
+  {
+    "specimenId": "OCS-143",
+    "category": "capacitor",
+    "name": "West-Cap Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "West-Cap",
+    "markings": "CP05A1; KF222K; .0022 MFD; 600 VDC; 96733-6614",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Silver metal axial cylinder with amber end residue and surface discoloration. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 2.050 nF at 200 kHz and 2.114 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS143. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS143/OCS143-1.jpg",
+    "images": [
+      "images/OCS143/OCS143-1.jpg",
+      "images/OCS143/OCS143-2.jpg",
+      "images/OCS143/OCS143-3.jpg",
+      "images/OCS143/OCS143-4.jpg",
+      "images/OCS143/OCS143-5.jpg",
+      "images/OCS143/OCS143-6.jpg",
+      "images/OCS143/OCS143-7.jpg",
+      "images/OCS143/OCS143-8.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS143",
+      "photoCount": 8,
+      "analyzer": "Atlas LCR45",
+      "nominalCapacitance_uF": 0.0022,
+      "voltageMarked": 600,
+      "measuredCapacitance": {
+        "value": "2.114",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "additionalCapacitanceReadings": [
+        {
+          "value": "2.050",
+          "unit": "nF",
+          "frequency": "200 kHz"
+        }
+      ],
+      "photoNaming": [
+        {
+          "original": "OCS143-1.jpg",
+          "website": "images/OCS143/OCS143-1.jpg"
+        },
+        {
+          "original": "OCS143-2.jpg",
+          "website": "images/OCS143/OCS143-2.jpg"
+        },
+        {
+          "original": "OCS143-3.jpg",
+          "website": "images/OCS143/OCS143-3.jpg"
+        },
+        {
+          "original": "OCS143-4.jpg",
+          "website": "images/OCS143/OCS143-4.jpg"
+        },
+        {
+          "original": "OCS143-5.jpg",
+          "website": "images/OCS143/OCS143-5.jpg"
+        },
+        {
+          "original": "OCS143-6.jpg",
+          "website": "images/OCS143/OCS143-6.jpg"
+        },
+        {
+          "original": "OCS143-7.jpg",
+          "website": "images/OCS143/OCS143-7.jpg"
+        },
+        {
+          "original": "OCS143-8.jpg",
+          "website": "images/OCS143/OCS143-8.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "specimenId": "OCS-144",
+    "category": "capacitor",
+    "name": "Sprague Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Sprague",
+    "markings": ".0022 MFD; 600 VDC",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Black cylinder with yellow lettering and two leads exiting the same end. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 3.616 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS144. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS144/OCS144-1.jpg",
+    "images": [
+      "images/OCS144/OCS144-1.jpg",
+      "images/OCS144/OCS144-2.jpg",
+      "images/OCS144/OCS144-3.jpg",
+      "images/OCS144/OCS144-4.jpg",
+      "images/OCS144/OCS144-5.jpg",
+      "images/OCS144/OCS144-6.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS144",
+      "photoCount": 6,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "3.616",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS144-1.jpg",
+          "website": "images/OCS144/OCS144-1.jpg"
+        },
+        {
+          "original": "OCS144-2.jpg",
+          "website": "images/OCS144/OCS144-2.jpg"
+        },
+        {
+          "original": "OCS144-3.jpg",
+          "website": "images/OCS144/OCS144-3.jpg"
+        },
+        {
+          "original": "OCS144-4.jpg",
+          "website": "images/OCS144/OCS144-4.jpg"
+        },
+        {
+          "original": "OCS144-5.jpg",
+          "website": "images/OCS144/OCS144-5.jpg"
+        },
+        {
+          "original": "OCS144-6.jpg",
+          "website": "images/OCS144/OCS144-6.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.0022,
+      "voltageMarked": 600
+    }
+  },
+  {
+    "specimenId": "OCS-145",
+    "category": "capacitor",
+    "name": "Pyramid Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Pyramid",
+    "markings": "TYPE 109; .003 MFD; 600 VDC; Made in U.S.A.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Pale paper-wrapped axial cylinder with red print and staining. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 2.718 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS145. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS145/OCS145-1.jpg",
+    "images": [
+      "images/OCS145/OCS145-1.jpg",
+      "images/OCS145/OCS145-2.jpg",
+      "images/OCS145/OCS145-3.jpg",
+      "images/OCS145/OCS145-4.jpg",
+      "images/OCS145/OCS145-5.jpg",
+      "images/OCS145/OCS145-6.jpg",
+      "images/OCS145/OCS145-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS145",
+      "photoCount": 7,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "2.718",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS145-1.jpg",
+          "website": "images/OCS145/OCS145-1.jpg"
+        },
+        {
+          "original": "OCS145-2.jpg",
+          "website": "images/OCS145/OCS145-2.jpg"
+        },
+        {
+          "original": "OCS145-3.jpg",
+          "website": "images/OCS145/OCS145-3.jpg"
+        },
+        {
+          "original": "OCS145-4.jpg",
+          "website": "images/OCS145/OCS145-4.jpg"
+        },
+        {
+          "original": "OCS145-5.jpg",
+          "website": "images/OCS145/OCS145-5.jpg"
+        },
+        {
+          "original": "OCS145-6.jpg",
+          "website": "images/OCS145/OCS145-6.jpg"
+        },
+        {
+          "original": "OCS145-7.jpg",
+          "website": "images/OCS145/OCS145-7.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.003,
+      "voltageMarked": 600
+    }
+  },
+  {
+    "specimenId": "OCS-146",
+    "category": "capacitor",
+    "name": "Unidentified Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Not established",
+    "markings": "22000 pF; ±10%; 125V DC symbol; B3N",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Yellow rounded axial package with black lettering and bent leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 22.77 nF at 1 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS146. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS146/OCS146-1.jpg",
+    "images": [
+      "images/OCS146/OCS146-1.jpg",
+      "images/OCS146/OCS146-2.jpg",
+      "images/OCS146/OCS146-3.jpg",
+      "images/OCS146/OCS146-4.jpg",
+      "images/OCS146/OCS146-5.jpg",
+      "images/OCS146/OCS146-6.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS146",
+      "photoCount": 6,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "22.77",
+        "unit": "nF",
+        "frequency": "1 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS146-1.jpg",
+          "website": "images/OCS146/OCS146-1.jpg"
+        },
+        {
+          "original": "OCS146-2.jpg",
+          "website": "images/OCS146/OCS146-2.jpg"
+        },
+        {
+          "original": "OCS146-3.jpg",
+          "website": "images/OCS146/OCS146-3.jpg"
+        },
+        {
+          "original": "OCS146-4.jpg",
+          "website": "images/OCS146/OCS146-4.jpg"
+        },
+        {
+          "original": "OCS146-5.jpg",
+          "website": "images/OCS146/OCS146-5.jpg"
+        },
+        {
+          "original": "OCS146-6.jpg",
+          "website": "images/OCS146/OCS146-6.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.022,
+      "voltageMarked": 125
+    }
+  },
+  {
+    "specimenId": "OCS-147",
+    "category": "capacitor",
+    "name": "Pyramid Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Pyramid",
+    "markings": "TYPE 109; .003 MFD; 600 VDC; Made in U.S.A.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Pale paper-wrapped axial cylinder with red print, staining and long leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 2.802 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS147. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS147/OCS147-1.jpg",
+    "images": [
+      "images/OCS147/OCS147-1.jpg",
+      "images/OCS147/OCS147-2.jpg",
+      "images/OCS147/OCS147-3.jpg",
+      "images/OCS147/OCS147-4.jpg",
+      "images/OCS147/OCS147-5.jpg",
+      "images/OCS147/OCS147-6.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS147",
+      "photoCount": 6,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "2.802",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS147-1.jpg",
+          "website": "images/OCS147/OCS147-1.jpg"
+        },
+        {
+          "original": "OCS147-2.jpg",
+          "website": "images/OCS147/OCS147-2.jpg"
+        },
+        {
+          "original": "OCS147-3.jpg",
+          "website": "images/OCS147/OCS147-3.jpg"
+        },
+        {
+          "original": "OCS147-4.jpg",
+          "website": "images/OCS147/OCS147-4.jpg"
+        },
+        {
+          "original": "OCS147-5.jpg",
+          "website": "images/OCS147/OCS147-5.jpg"
+        },
+        {
+          "original": "OCS147-6.jpg",
+          "website": "images/OCS147/OCS147-6.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.003,
+      "voltageMarked": 600
+    }
+  },
+  {
+    "specimenId": "OCS-148",
+    "category": "capacitor",
+    "name": "Plessey Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Plessey",
+    "markings": "1.72KP; 2700/5; 400V DC symbol",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Yellow axial package with black lettering and long leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 2.792 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS148. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS148/OCS148-1.jpg",
+    "images": [
+      "images/OCS148/OCS148-1.jpg",
+      "images/OCS148/OCS148-2.jpg",
+      "images/OCS148/OCS148-3.jpg",
+      "images/OCS148/OCS148-4.jpg",
+      "images/OCS148/OCS148-6.jpg",
+      "images/OCS148/OCS148-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS148",
+      "photoCount": 6,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "2.792",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS148-1.jpg",
+          "website": "images/OCS148/OCS148-1.jpg"
+        },
+        {
+          "original": "OCS148-2.jpg",
+          "website": "images/OCS148/OCS148-2.jpg"
+        },
+        {
+          "original": "OCS148-3.jpg",
+          "website": "images/OCS148/OCS148-3.jpg"
+        },
+        {
+          "original": "OCS148-4.jpg",
+          "website": "images/OCS148/OCS148-4.jpg"
+        },
+        {
+          "original": "OCS148-6.jpg",
+          "website": "images/OCS148/OCS148-6.jpg"
+        },
+        {
+          "original": "OCS148-7.jpg",
+          "website": "images/OCS148/OCS148-7.jpg"
+        }
+      ],
+      "voltageMarked": 400
+    }
+  },
+  {
+    "specimenId": "OCS-149",
+    "category": "capacitor",
+    "name": "West-Cap Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "West-Cap",
+    "markings": "CP05A1; KF222K3; .0022 MFD; 600 VDC; 96733-6635",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Silver metal axial cylinder with amber end residue and short soldered leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 2.002 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS149. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS149/OCS149-1.jpg",
+    "images": [
+      "images/OCS149/OCS149-1.jpg",
+      "images/OCS149/OCS149-2.jpg",
+      "images/OCS149/OCS149-3.jpg",
+      "images/OCS149/OCS149-4.jpg",
+      "images/OCS149/OCS149-5.jpg",
+      "images/OCS149/OCS149-6.jpg",
+      "images/OCS149/OCS149-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS149",
+      "photoCount": 7,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "2.002",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS149-1.jpg",
+          "website": "images/OCS149/OCS149-1.jpg"
+        },
+        {
+          "original": "OCS149-2.jpg",
+          "website": "images/OCS149/OCS149-2.jpg"
+        },
+        {
+          "original": "OCS149-3.jpg",
+          "website": "images/OCS149/OCS149-3.jpg"
+        },
+        {
+          "original": "OCS149-4.jpg",
+          "website": "images/OCS149/OCS149-4.jpg"
+        },
+        {
+          "original": "OCS149-5.jpg",
+          "website": "images/OCS149/OCS149-5.jpg"
+        },
+        {
+          "original": "OCS149-6.jpg",
+          "website": "images/OCS149/OCS149-6.jpg"
+        },
+        {
+          "original": "OCS149-7.jpg",
+          "website": "images/OCS149/OCS149-7.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.0022,
+      "voltageMarked": 600
+    }
+  },
+  {
+    "specimenId": "OCS-150",
+    "category": "capacitor",
+    "name": "Plessey Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Plessey",
+    "markings": "1.72KP; 2700/5; 400V DC symbol",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Yellow axial package with black lettering and long bent leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 2.736 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS150. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS150/OCS150-1.jpg",
+    "images": [
+      "images/OCS150/OCS150-1.jpg",
+      "images/OCS150/OCS150-2.jpg",
+      "images/OCS150/OCS150-3.jpg",
+      "images/OCS150/OCS150-4.jpg",
+      "images/OCS150/OCS150-5.jpg",
+      "images/OCS150/OCS150-6.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS150",
+      "photoCount": 6,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "2.736",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS150-1.jpg",
+          "website": "images/OCS150/OCS150-1.jpg"
+        },
+        {
+          "original": "OCS150-2.jpg",
+          "website": "images/OCS150/OCS150-2.jpg"
+        },
+        {
+          "original": "OCS150-3.jpg",
+          "website": "images/OCS150/OCS150-3.jpg"
+        },
+        {
+          "original": "OCS150-4.jpg",
+          "website": "images/OCS150/OCS150-4.jpg"
+        },
+        {
+          "original": "OCS150-5.jpg",
+          "website": "images/OCS150/OCS150-5.jpg"
+        },
+        {
+          "original": "OCS150-6.jpg",
+          "website": "images/OCS150/OCS150-6.jpg"
+        }
+      ],
+      "voltageMarked": 400
+    }
+  },
+  {
+    "specimenId": "OCS-151",
+    "category": "capacitor",
+    "name": "Unidentified Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Not established",
+    "markings": "TYPE 860; .0039; 400V; ±10; CLE; 446 6702",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Dark brown rounded axial package with worn white printing and long leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 3.640 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS151. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS151/OCS151-1.jpg",
+    "images": [
+      "images/OCS151/OCS151-1.jpg",
+      "images/OCS151/OCS151-2.jpg",
+      "images/OCS151/OCS151-3.jpg",
+      "images/OCS151/OCS151-4.jpg",
+      "images/OCS151/OCS151-5.jpg",
+      "images/OCS151/OCS151-6.jpg",
+      "images/OCS151/OCS151-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS151",
+      "photoCount": 7,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "3.640",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS151-1.jpg",
+          "website": "images/OCS151/OCS151-1.jpg"
+        },
+        {
+          "original": "OCS151-2.jpg",
+          "website": "images/OCS151/OCS151-2.jpg"
+        },
+        {
+          "original": "OCS151-3.jpg",
+          "website": "images/OCS151/OCS151-3.jpg"
+        },
+        {
+          "original": "OCS151-4.jpg",
+          "website": "images/OCS151/OCS151-4.jpg"
+        },
+        {
+          "original": "OCS151-5.jpg",
+          "website": "images/OCS151/OCS151-5.jpg"
+        },
+        {
+          "original": "OCS151-6.jpg",
+          "website": "images/OCS151/OCS151-6.jpg"
+        },
+        {
+          "original": "OCS151-7.jpg",
+          "website": "images/OCS151/OCS151-7.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.0039,
+      "voltageMarked": 400
+    }
+  },
+  {
+    "specimenId": "OCS-152",
+    "category": "capacitor",
+    "name": "Unidentified Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Not established",
+    "markings": "Colored bands on black body; manufacturer, nominal value and voltage unconfirmed.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Black axial cylinder with colored bands, scuffs and solder residue on leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 2.749 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS152. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS152/OCS152-1.jpg",
+    "images": [
+      "images/OCS152/OCS152-1.jpg",
+      "images/OCS152/OCS152-2.jpg",
+      "images/OCS152/OCS152-3.jpg",
+      "images/OCS152/OCS152-4.jpg",
+      "images/OCS152/OCS152-5.jpg",
+      "images/OCS152/OCS152-6.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS152",
+      "photoCount": 6,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "2.749",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS152-1.jpg",
+          "website": "images/OCS152/OCS152-1.jpg"
+        },
+        {
+          "original": "OCS152-2.jpg",
+          "website": "images/OCS152/OCS152-2.jpg"
+        },
+        {
+          "original": "OCS152-3.jpg",
+          "website": "images/OCS152/OCS152-3.jpg"
+        },
+        {
+          "original": "OCS152-4.jpg",
+          "website": "images/OCS152/OCS152-4.jpg"
+        },
+        {
+          "original": "OCS152-5.jpg",
+          "website": "images/OCS152/OCS152-5.jpg"
+        },
+        {
+          "original": "OCS152-6.jpg",
+          "website": "images/OCS152/OCS152-6.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "specimenId": "OCS-153",
+    "category": "capacitor",
+    "name": "CDE (marked) Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "CDE (marked)",
+    "markings": "CDE; .0033 MFD; 100 VDC; ±10%; WCR1D33",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Yellow wrapped axial cylinder with black lettering, discoloration and short bent leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 3.194 nF at 15 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS153. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS153/OCS153-1.jpg",
+    "images": [
+      "images/OCS153/OCS153-1.jpg",
+      "images/OCS153/OCS153-2.jpg",
+      "images/OCS153/OCS153-3.jpg",
+      "images/OCS153/OCS153-4.jpg",
+      "images/OCS153/OCS153-5.jpg",
+      "images/OCS153/OCS153-6.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS153",
+      "photoCount": 6,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "3.194",
+        "unit": "nF",
+        "frequency": "15 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS153-1.jpg",
+          "website": "images/OCS153/OCS153-1.jpg"
+        },
+        {
+          "original": "OCS153-2.jpg",
+          "website": "images/OCS153/OCS153-2.jpg"
+        },
+        {
+          "original": "OCS153-3.jpg",
+          "website": "images/OCS153/OCS153-3.jpg"
+        },
+        {
+          "original": "OCS153-4.jpg",
+          "website": "images/OCS153/OCS153-4.jpg"
+        },
+        {
+          "original": "OCS153-5.jpg",
+          "website": "images/OCS153/OCS153-5.jpg"
+        },
+        {
+          "original": "OCS153-6.jpg",
+          "website": "images/OCS153/OCS153-6.jpg"
+        }
+      ],
+      "nominalCapacitance_uF": 0.0033,
+      "voltageMarked": 100
+    }
+  },
+  {
+    "specimenId": "OCS-154",
+    "category": "capacitor",
+    "name": "Unidentified Capacitor",
+    "typeFamily": "Capacitor; dielectric type not confirmed",
+    "era": "Production date not established",
+    "manufacturer": "Not established",
+    "markings": "125V DC symbol; remaining lettering worn; nominal capacitance unresolved.",
+    "provenance": "OCA acquisition number and source/location/date linkage pending curator entry.",
+    "condition": "Dark blue rounded axial package with worn lettering and bent leads. Final electrical-condition classification and collection role require curator confirmation.",
+    "characterization": "Atlas LCR45 photographs show capacitance 68.60 nF at 1 kHz. Additional impedance, admittance and magnitude/phase displays are preserved in the photographs. Leakage and voltage-withstand testing are not documented by these photographs.",
+    "observation": "Photographed analyzer reading retained as an observation. Dielectric type and production date are unconfirmed. Final electrical condition and collection role require curator confirmation.",
+    "history": "Accession identity retained as OCS154. Photographs and analyzer observations transcribed from its corresponding Google Drive folder. OCA linkage, storage location and current collection role remain pending curator entry. Status may change; history does not.",
+    "image": "images/OCS154/OCS154-1.jpg",
+    "images": [
+      "images/OCS154/OCS154-1.jpg",
+      "images/OCS154/OCS154-2.jpg",
+      "images/OCS154/OCS154-3.jpg",
+      "images/OCS154/OCS154-4.jpg",
+      "images/OCS154/OCS154-5.jpg",
+      "images/OCS154/OCS154-6.jpg",
+      "images/OCS154/OCS154-7.jpg"
+    ],
+    "reviewStatus": "Draft batch for curator review",
+    "evidence": {
+      "folder": "OCS154",
+      "photoCount": 7,
+      "analyzer": "Atlas LCR45",
+      "measuredCapacitance": {
+        "value": "68.60",
+        "unit": "nF",
+        "frequency": "1 kHz"
+      },
+      "photoNaming": [
+        {
+          "original": "OCS154-1.jpg",
+          "website": "images/OCS154/OCS154-1.jpg"
+        },
+        {
+          "original": "OCS154-2.jpg",
+          "website": "images/OCS154/OCS154-2.jpg"
+        },
+        {
+          "original": "OCS154-3.jpg",
+          "website": "images/OCS154/OCS154-3.jpg"
+        },
+        {
+          "original": "OCS154-4.jpg",
+          "website": "images/OCS154/OCS154-4.jpg"
+        },
+        {
+          "original": "OCS154-5.jpg",
+          "website": "images/OCS154/OCS154-5.jpg"
+        },
+        {
+          "original": "OCS154-6.jpg",
+          "website": "images/OCS154/OCS154-6.jpg"
+        },
+        {
+          "original": "OCS154-7.jpg",
+          "website": "images/OCS154/OCS154-7.jpg"
+        }
+      ],
+      "voltageMarked": 125
+    }
   }
 ]
